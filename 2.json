@@ -1,0 +1,2179 @@
+{
+    "map": {
+        "2275:2272": {
+            "x": 2275,
+            "y": 2272,
+            "object_code": "blue_dash",
+            "other_options": {
+                "angle": 0
+            }
+        },
+        "2292:2268": {
+            "x": 2292,
+            "y": 2268,
+            "object_code": "green_X",
+            "other_options": {}
+        },
+        "2291:2268": {
+            "x": 2291,
+            "y": 2268,
+            "object_code": "green_X",
+            "other_options": {}
+        },
+        "2290:2268": {
+            "x": 2290,
+            "y": 2268,
+            "object_code": "green_X",
+            "other_options": {}
+        },
+        "2289:2268": {
+            "x": 2289,
+            "y": 2268,
+            "object_code": "green_X",
+            "other_options": {}
+        },
+        "2300:2260": {
+            "x": 2300,
+            "y": 2260,
+            "object_code": "green_X",
+            "other_options": {}
+        },
+        "2303:2261": {
+            "x": 2303,
+            "y": 2261,
+            "object_code": "black_X",
+            "other_options": {}
+        },
+        "2303:2262": {
+            "x": 2303,
+            "y": 2262,
+            "object_code": "black_X",
+            "other_options": {}
+        },
+        "2303:2263": {
+            "x": 2303,
+            "y": 2263,
+            "object_code": "black_X",
+            "other_options": {}
+        },
+        "2303:2264": {
+            "x": 2303,
+            "y": 2264,
+            "object_code": "black_X",
+            "other_options": {}
+        },
+        "2303:2265": {
+            "x": 2303,
+            "y": 2265,
+            "object_code": "black_X",
+            "other_options": {}
+        },
+        "2303:2266": {
+            "x": 2303,
+            "y": 2266,
+            "object_code": "black_X",
+            "other_options": {}
+        },
+        "2303:2267": {
+            "x": 2303,
+            "y": 2267,
+            "object_code": "black_X",
+            "other_options": {}
+        },
+        "2303:2268": {
+            "x": 2303,
+            "y": 2268,
+            "object_code": "black_X",
+            "other_options": {}
+        },
+        "2303:2269": {
+            "x": 2303,
+            "y": 2269,
+            "object_code": "black_X",
+            "other_options": {}
+        },
+        "2303:2270": {
+            "x": 2303,
+            "y": 2270,
+            "object_code": "black_X",
+            "other_options": {}
+        },
+        "2303:2271": {
+            "x": 2303,
+            "y": 2271,
+            "object_code": "black_X",
+            "other_options": {}
+        },
+        "2303:2272": {
+            "x": 2303,
+            "y": 2272,
+            "object_code": "black_X",
+            "other_options": {}
+        },
+        "2303:2273": {
+            "x": 2303,
+            "y": 2273,
+            "object_code": "black_X",
+            "other_options": {}
+        },
+        "2301:2260": {
+            "x": 2301,
+            "y": 2260,
+            "object_code": "green_X",
+            "other_options": {}
+        },
+        "2302:2260": {
+            "x": 2302,
+            "y": 2260,
+            "object_code": "green_X",
+            "other_options": {}
+        },
+        "2303:2260": {
+            "x": 2303,
+            "y": 2260,
+            "object_code": "green_X",
+            "other_options": {}
+        },
+        "2295:2268": {
+            "x": 2295,
+            "y": 2268,
+            "object_code": "green_ball",
+            "other_options": {
+                "angle": -90
+            }
+        },
+        "2296:2268": {
+            "x": 2296,
+            "y": 2268,
+            "object_code": "green_ball",
+            "other_options": {
+                "angle": -90
+            }
+        },
+        "2304:2260": {
+            "x": 2304,
+            "y": 2260,
+            "object_code": "green_X",
+            "other_options": {}
+        },
+        "2305:2260": {
+            "x": 2305,
+            "y": 2260,
+            "object_code": "green_X",
+            "other_options": {}
+        },
+        "2306:2260": {
+            "x": 2306,
+            "y": 2260,
+            "object_code": "green_X",
+            "other_options": {}
+        },
+        "2311:2266": {
+            "x": 2311,
+            "y": 2266,
+            "object_code": "green_portal",
+            "other_options": {
+                "portal_id": 0,
+                "portal_entry": true,
+                "distance": 200,
+                "strength": 10
+            }
+        },
+        "2310:2234": {
+            "x": 2310,
+            "y": 2234,
+            "object_code": "green_portal",
+            "other_options": {
+                "portal_id": 1,
+                "portal_entry": false,
+                "angle": 90
+            }
+        },
+        "2304:2242": {
+            "x": 2304,
+            "y": 2242,
+            "object_code": "blue_portal",
+            "other_options": {
+                "portal_id": 2,
+                "portal_entry": true,
+                "distance":100,
+                "strength":10
+            }
+        },
+        "2329:2242": {
+            "x": 2329,
+            "y": 2242,
+            "object_code": "blue_portal",
+            "other_options": {
+                "portal_id": 3,
+                "portal_entry": false,
+                "angle": 0
+            }
+        },
+        "2339:2238": {
+            "x": 2339,
+            "y": 2238,
+            "object_code": "red_X",
+            "other_options": {}
+        },
+        "2338:2238": {
+            "x": 2338,
+            "y": 2238,
+            "object_code": "red_X",
+            "other_options": {}
+        },
+        "2337:2238": {
+            "x": 2337,
+            "y": 2238,
+            "object_code": "red_X",
+            "other_options": {}
+        },
+        "2336:2238": {
+            "x": 2336,
+            "y": 2238,
+            "object_code": "red_X",
+            "other_options": {}
+        },
+        "2335:2238": {
+            "x": 2335,
+            "y": 2238,
+            "object_code": "red_X",
+            "other_options": {}
+        },
+        "2334:2238": {
+            "x": 2334,
+            "y": 2238,
+            "object_code": "red_X",
+            "other_options": {}
+        },
+        "2333:2238": {
+            "x": 2333,
+            "y": 2238,
+            "object_code": "red_X",
+            "other_options": {}
+        },
+        "2332:2238": {
+            "x": 2332,
+            "y": 2238,
+            "object_code": "red_X",
+            "other_options": {}
+        },
+        "2331:2238": {
+            "x": 2331,
+            "y": 2238,
+            "object_code": "red_X",
+            "other_options": {}
+        },
+        "2330:2238": {
+            "x": 2330,
+            "y": 2238,
+            "object_code": "red_X",
+            "other_options": {}
+        },
+        "2329:2238": {
+            "x": 2329,
+            "y": 2238,
+            "object_code": "red_X",
+            "other_options": {}
+        },
+        "2328:2238": {
+            "x": 2328,
+            "y": 2238,
+            "object_code": "red_X",
+            "other_options": {}
+        },
+        "2301:2257": {
+            "x": 2301,
+            "y": 2257,
+            "object_code": "green_ball",
+            "other_options": {
+                "angle": 0
+            }
+        },
+        "2301:2256": {
+            "x": 2301,
+            "y": 2256,
+            "object_code": "green_ball",
+            "other_options": {
+                "angle": 0
+            }
+        },
+        "2295:2254": {
+            "x": 2295,
+            "y": 2254,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2296:2254": {
+            "x": 2296,
+            "y": 2254,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2297:2254": {
+            "x": 2297,
+            "y": 2254,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2332:2228": {
+            "x": 2332,
+            "y": 2228,
+            "object_code": "green_X",
+            "other_options": {}
+        },
+        "2333:2228": {
+            "x": 2333,
+            "y": 2228,
+            "object_code": "green_X",
+            "other_options": {}
+        },
+        "2334:2228": {
+            "x": 2334,
+            "y": 2228,
+            "object_code": "green_X",
+            "other_options": {}
+        },
+        "2335:2228": {
+            "x": 2335,
+            "y": 2228,
+            "object_code": "green_X",
+            "other_options": {}
+        },
+        "2336:2228": {
+            "x": 2336,
+            "y": 2228,
+            "object_code": "green_X",
+            "other_options": {}
+        },
+        "2337:2228": {
+            "x": 2337,
+            "y": 2228,
+            "object_code": "green_X",
+            "other_options": {}
+        },
+        "2338:2228": {
+            "x": 2338,
+            "y": 2228,
+            "object_code": "green_X",
+            "other_options": {}
+        },
+        "2339:2228": {
+            "x": 2339,
+            "y": 2228,
+            "object_code": "green_X",
+            "other_options": {}
+        },
+        "2332:2219": {
+            "x": 2332,
+            "y": 2219,
+            "object_code": "blue_X",
+            "other_options": {}
+        },
+        "2333:2219": {
+            "x": 2333,
+            "y": 2219,
+            "object_code": "blue_X",
+            "other_options": {}
+        },
+        "2334:2219": {
+            "x": 2334,
+            "y": 2219,
+            "object_code": "blue_X",
+            "other_options": {}
+        },
+        "2335:2219": {
+            "x": 2335,
+            "y": 2219,
+            "object_code": "blue_X",
+            "other_options": {}
+        },
+        "2336:2219": {
+            "x": 2336,
+            "y": 2219,
+            "object_code": "blue_X",
+            "other_options": {}
+        },
+        "2337:2219": {
+            "x": 2337,
+            "y": 2219,
+            "object_code": "blue_X",
+            "other_options": {}
+        },
+        "2338:2219": {
+            "x": 2338,
+            "y": 2219,
+            "object_code": "blue_X",
+            "other_options": {}
+        },
+        "2339:2219": {
+            "x": 2339,
+            "y": 2219,
+            "object_code": "blue_X",
+            "other_options": {}
+        },
+        "2307:2236": {
+            "x": 2307,
+            "y": 2236,
+            "object_code": "blue_X",
+            "other_options": {}
+        },
+        "2307:2237": {
+            "x": 2307,
+            "y": 2237,
+            "object_code": "blue_X",
+            "other_options": {}
+        },
+        "2307:2238": {
+            "x": 2307,
+            "y": 2238,
+            "object_code": "blue_X",
+            "other_options": {}
+        },
+        "2307:2239": {
+            "x": 2307,
+            "y": 2239,
+            "object_code": "blue_X",
+            "other_options": {}
+        },
+        "2307:2240": {
+            "x": 2307,
+            "y": 2240,
+            "object_code": "blue_X",
+            "other_options": {}
+        },
+        "2307:2241": {
+            "x": 2307,
+            "y": 2241,
+            "object_code": "blue_X",
+            "other_options": {}
+        },
+        "2307:2242": {
+            "x": 2307,
+            "y": 2242,
+            "object_code": "blue_X",
+            "other_options": {}
+        },
+        "2307:2243": {
+            "x": 2307,
+            "y": 2243,
+            "object_code": "blue_X",
+            "other_options": {}
+        },
+        "2307:2244": {
+            "x": 2307,
+            "y": 2244,
+            "object_code": "blue_X",
+            "other_options": {}
+        },
+        "2307:2245": {
+            "x": 2307,
+            "y": 2245,
+            "object_code": "blue_X",
+            "other_options": {}
+        },
+        "2306:2245": {
+            "x": 2306,
+            "y": 2245,
+            "object_code": "blue_X",
+            "other_options": {}
+        },
+        "2305:2245": {
+            "x": 2305,
+            "y": 2245,
+            "object_code": "blue_X",
+            "other_options": {}
+        },
+        "2304:2245": {
+            "x": 2304,
+            "y": 2245,
+            "object_code": "blue_X",
+            "other_options": {}
+        },
+        "2303:2245": {
+            "x": 2303,
+            "y": 2245,
+            "object_code": "blue_X",
+            "other_options": {}
+        },
+        "2302:2245": {
+            "x": 2302,
+            "y": 2245,
+            "object_code": "blue_X",
+            "other_options": {}
+        },
+        "2301:2245": {
+            "x": 2301,
+            "y": 2245,
+            "object_code": "blue_X",
+            "other_options": {}
+        },
+        "2300:2245": {
+            "x": 2300,
+            "y": 2245,
+            "object_code": "blue_X",
+            "other_options": {}
+        },
+        "2299:2245": {
+            "x": 2299,
+            "y": 2245,
+            "object_code": "blue_X",
+            "other_options": {}
+        },
+        "2298:2245": {
+            "x": 2298,
+            "y": 2245,
+            "object_code": "blue_X",
+            "other_options": {}
+        },
+        "2297:2245": {
+            "x": 2297,
+            "y": 2245,
+            "object_code": "blue_X",
+            "other_options": {}
+        },
+        "2307:2248": {
+            "x": 2307,
+            "y": 2248,
+            "object_code": "blue_ball",
+            "other_options": {
+                "angle": 180
+            }
+        },
+        "2307:2249": {
+            "x": 2307,
+            "y": 2249,
+            "object_code": "blue_ball",
+            "other_options": {
+                "angle": 180
+            }
+        },
+        "2339:2234": {
+            "x": 2339,
+            "y": 2234,
+            "object_code": "red_ball",
+            "other_options": {
+                "angle": -170,
+                "go_to_position":true
+            }
+        },
+        "2332:2224": {
+            "x": 2332,
+            "y": 2224,
+            "object_code": "green_ball",
+            "other_options": {
+                "angle": -5
+            }
+        },
+        "2320:2273": {
+            "x": 2320,
+            "y": 2273,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2320:2271": {
+            "x": 2320,
+            "y": 2271,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2320:2269": {
+            "x": 2320,
+            "y": 2269,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2320:2267": {
+            "x": 2320,
+            "y": 2267,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2320:2265": {
+            "x": 2320,
+            "y": 2265,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2320:2263": {
+            "x": 2320,
+            "y": 2263,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2320:2261": {
+            "x": 2320,
+            "y": 2261,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2320:2259": {
+            "x": 2320,
+            "y": 2259,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2320:2257": {
+            "x": 2320,
+            "y": 2257,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2320:2255": {
+            "x": 2320,
+            "y": 2255,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2320:2253": {
+            "x": 2320,
+            "y": 2253,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2320:2251": {
+            "x": 2320,
+            "y": 2251,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2320:2249": {
+            "x": 2320,
+            "y": 2249,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2320:2247": {
+            "x": 2320,
+            "y": 2247,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2320:2245": {
+            "x": 2320,
+            "y": 2245,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2320:2243": {
+            "x": 2320,
+            "y": 2243,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2320:2241": {
+            "x": 2320,
+            "y": 2241,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2320:2239": {
+            "x": 2320,
+            "y": 2239,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2320:2237": {
+            "x": 2320,
+            "y": 2237,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2320:2235": {
+            "x": 2320,
+            "y": 2235,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2320:2233": {
+            "x": 2320,
+            "y": 2233,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2320:2231": {
+            "x": 2320,
+            "y": 2231,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2320:2229": {
+            "x": 2320,
+            "y": 2229,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2320:2227": {
+            "x": 2320,
+            "y": 2227,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2320:2225": {
+            "x": 2320,
+            "y": 2225,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2320:2223": {
+            "x": 2320,
+            "y": 2223,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2320:2221": {
+            "x": 2320,
+            "y": 2221,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2320:2219": {
+            "x": 2320,
+            "y": 2219,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2320:2217": {
+            "x": 2320,
+            "y": 2217,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2320:2215": {
+            "x": 2320,
+            "y": 2215,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2320:2213": {
+            "x": 2320,
+            "y": 2213,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2320:2211": {
+            "x": 2320,
+            "y": 2211,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2322:2211": {
+            "x": 2322,
+            "y": 2211,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2324:2211": {
+            "x": 2324,
+            "y": 2211,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2326:2211": {
+            "x": 2326,
+            "y": 2211,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2328:2211": {
+            "x": 2328,
+            "y": 2211,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2318:2227": {
+            "x": 2318,
+            "y": 2227,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2316:2227": {
+            "x": 2316,
+            "y": 2227,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2314:2227": {
+            "x": 2314,
+            "y": 2227,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2312:2227": {
+            "x": 2312,
+            "y": 2227,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2310:2227": {
+            "x": 2310,
+            "y": 2227,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2308:2227": {
+            "x": 2308,
+            "y": 2227,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2306:2227": {
+            "x": 2306,
+            "y": 2227,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2304:2227": {
+            "x": 2304,
+            "y": 2227,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2302:2227": {
+            "x": 2302,
+            "y": 2227,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2300:2227": {
+            "x": 2300,
+            "y": 2227,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2298:2227": {
+            "x": 2298,
+            "y": 2227,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2296:2227": {
+            "x": 2296,
+            "y": 2227,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2294:2227": {
+            "x": 2294,
+            "y": 2227,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2292:2227": {
+            "x": 2292,
+            "y": 2227,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2290:2227": {
+            "x": 2290,
+            "y": 2227,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2332:2216": {
+            "x": 2332,
+            "y": 2216,
+            "object_code": "blue_portal",
+            "other_options": {
+                "portal_id": 4,
+                "portal_entry": true,
+                "distance":100,
+                "strength":10
+            }
+        },
+        "2318:2213": {
+            "x": 2318,
+            "y": 2213,
+            "object_code": "blue_portal",
+            "other_options": {
+                "portal_id": 5,
+                "portal_entry": false,
+                "angle": 180
+            }
+        },
+        "2311:2217": {
+            "x": 2311,
+            "y": 2217,
+            "object_code": "green_X",
+            "other_options": {}
+        },
+        "2310:2217": {
+            "x": 2310,
+            "y": 2217,
+            "object_code": "green_X",
+            "other_options": {}
+        },
+        "2309:2217": {
+            "x": 2309,
+            "y": 2217,
+            "object_code": "green_X",
+            "other_options": {}
+        },
+        "2308:2217": {
+            "x": 2308,
+            "y": 2217,
+            "object_code": "green_X",
+            "other_options": {}
+        },
+        "2307:2217": {
+            "x": 2307,
+            "y": 2217,
+            "object_code": "green_X",
+            "other_options": {}
+        },
+        "2297:2219": {
+            "x": 2297,
+            "y": 2219,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2297:2217": {
+            "x": 2297,
+            "y": 2217,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2297:2215": {
+            "x": 2297,
+            "y": 2215,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2297:2213": {
+            "x": 2297,
+            "y": 2213,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2297:2211": {
+            "x": 2297,
+            "y": 2211,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2294:2219": {
+            "x": 2294,
+            "y": 2219,
+            "object_code": "red_ball",
+            "other_options": {
+                "angle": -90
+            }
+        },
+        "2294:2212": {
+            "x": 2294,
+            "y": 2212,
+            "object_code": "yellow_portal",
+            "other_options": {
+                "portal_id": 6,
+                "portal_entry": true,
+                "distance":100,
+                "strength":10
+            }
+        },
+        "2275:2212": {
+            "x": 2275,
+            "y": 2212,
+            "object_code": "yellow_portal",
+            "other_options": {
+                "portal_id": 7,
+                "portal_entry": false,
+                "angle": 60
+            }
+        },
+       
+        "2302:2218": {
+            "x": 2302,
+            "y": 2218,
+            "object_code": "green_ball",
+            "other_options": {
+                "angle":130,
+                "go_to_position":true
+            }
+        },
+        "2288:2227": {
+            "x": 2288,
+            "y": 2227,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2286:2227": {
+            "x": 2286,
+            "y": 2227,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2286:2225": {
+            "x": 2286,
+            "y": 2225,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2286:2223": {
+            "x": 2286,
+            "y": 2223,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2286:2221": {
+            "x": 2286,
+            "y": 2221,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2286:2219": {
+            "x": 2286,
+            "y": 2219,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2286:2217": {
+            "x": 2286,
+            "y": 2217,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2286:2215": {
+            "x": 2286,
+            "y": 2215,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2286:2213": {
+            "x": 2286,
+            "y": 2213,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2286:2211": {
+            "x": 2286,
+            "y": 2211,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2286:2229": {
+            "x": 2286,
+            "y": 2229,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2286:2231": {
+            "x": 2286,
+            "y": 2231,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2286:2233": {
+            "x": 2286,
+            "y": 2233,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2286:2235": {
+            "x": 2286,
+            "y": 2235,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2286:2237": {
+            "x": 2286,
+            "y": 2237,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2286:2239": {
+            "x": 2286,
+            "y": 2239,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2286:2241": {
+            "x": 2286,
+            "y": 2241,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2286:2243": {
+            "x": 2286,
+            "y": 2243,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2286:2245": {
+            "x": 2286,
+            "y": 2245,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2286:2247": {
+            "x": 2286,
+            "y": 2247,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2286:2249": {
+            "x": 2286,
+            "y": 2249,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2286:2251": {
+            "x": 2286,
+            "y": 2251,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2286:2253": {
+            "x": 2286,
+            "y": 2253,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2286:2255": {
+            "x": 2286,
+            "y": 2255,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2284:2253": {
+            "x": 2284,
+            "y": 2253,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2282:2253": {
+            "x": 2282,
+            "y": 2253,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2280:2253": {
+            "x": 2280,
+            "y": 2253,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2278:2253": {
+            "x": 2278,
+            "y": 2253,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2276:2253": {
+            "x": 2276,
+            "y": 2253,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2274:2253": {
+            "x": 2274,
+            "y": 2253,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2272:2253": {
+            "x": 2272,
+            "y": 2253,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2270:2253": {
+            "x": 2270,
+            "y": 2253,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2275:2221": {
+            "x": 2275,
+            "y": 2221,
+            "object_code": "red_X",
+            "other_options": {}
+        },
+        "2275:2231": {
+            "x": 2275,
+            "y": 2231,
+            "object_code": "green_X",
+            "other_options": {}
+        },
+        "2354:2238": {
+            "x": 2354,
+            "y": 2238,
+            "object_code": "black_ball",
+            "other_options": {}
+        },
+        "2270:2239": {
+            "x": 2270,
+            "y": 2239,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2270:2240": {
+            "x": 2270,
+            "y": 2240,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2270:2241": {
+            "x": 2270,
+            "y": 2241,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2270:2242": {
+            "x": 2270,
+            "y": 2242,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2270:2243": {
+            "x": 2270,
+            "y": 2243,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2270:2244": {
+            "x": 2270,
+            "y": 2244,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2270:2245": {
+            "x": 2270,
+            "y": 2245,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2270:2246": {
+            "x": 2270,
+            "y": 2246,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2283:2246": {
+            "x": 2283,
+            "y": 2246,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2283:2245": {
+            "x": 2283,
+            "y": 2245,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2283:2244": {
+            "x": 2283,
+            "y": 2244,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2283:2243": {
+            "x": 2283,
+            "y": 2243,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2283:2242": {
+            "x": 2283,
+            "y": 2242,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2283:2241": {
+            "x": 2283,
+            "y": 2241,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2283:2240": {
+            "x": 2283,
+            "y": 2240,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2282:2240": {
+            "x": 2282,
+            "y": 2240,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2282:2239": {
+            "x": 2282,
+            "y": 2239,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2283:2239": {
+            "x": 2283,
+            "y": 2239,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2281:2239": {
+            "x": 2281,
+            "y": 2239,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2280:2239": {
+            "x": 2280,
+            "y": 2239,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2279:2239": {
+            "x": 2279,
+            "y": 2239,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2278:2239": {
+            "x": 2278,
+            "y": 2239,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2277:2239": {
+            "x": 2277,
+            "y": 2239,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2276:2239": {
+            "x": 2276,
+            "y": 2239,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2275:2239": {
+            "x": 2275,
+            "y": 2239,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2274:2239": {
+            "x": 2274,
+            "y": 2239,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2273:2239": {
+            "x": 2273,
+            "y": 2239,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2272:2239": {
+            "x": 2272,
+            "y": 2239,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2271:2239": {
+            "x": 2271,
+            "y": 2239,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2271:2240": {
+            "x": 2271,
+            "y": 2240,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2271:2241": {
+            "x": 2271,
+            "y": 2241,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2271:2242": {
+            "x": 2271,
+            "y": 2242,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2271:2243": {
+            "x": 2271,
+            "y": 2243,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2271:2244": {
+            "x": 2271,
+            "y": 2244,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2271:2245": {
+            "x": 2271,
+            "y": 2245,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2271:2246": {
+            "x": 2271,
+            "y": 2246,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2282:2246": {
+            "x": 2282,
+            "y": 2246,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2282:2245": {
+            "x": 2282,
+            "y": 2245,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2282:2244": {
+            "x": 2282,
+            "y": 2244,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2282:2243": {
+            "x": 2282,
+            "y": 2243,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2282:2242": {
+            "x": 2282,
+            "y": 2242,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2282:2241": {
+            "x": 2282,
+            "y": 2241,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2281:2241": {
+            "x": 2281,
+            "y": 2241,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2281:2240": {
+            "x": 2281,
+            "y": 2240,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2280:2240": {
+            "x": 2280,
+            "y": 2240,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2279:2240": {
+            "x": 2279,
+            "y": 2240,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2278:2240": {
+            "x": 2278,
+            "y": 2240,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2277:2240": {
+            "x": 2277,
+            "y": 2240,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2276:2240": {
+            "x": 2276,
+            "y": 2240,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2275:2240": {
+            "x": 2275,
+            "y": 2240,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2274:2240": {
+            "x": 2274,
+            "y": 2240,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2273:2240": {
+            "x": 2273,
+            "y": 2240,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2273:2241": {
+            "x": 2273,
+            "y": 2241,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2272:2241": {
+            "x": 2272,
+            "y": 2241,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2272:2240": {
+            "x": 2272,
+            "y": 2240,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2272:2242": {
+            "x": 2272,
+            "y": 2242,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2272:2243": {
+            "x": 2272,
+            "y": 2243,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2272:2244": {
+            "x": 2272,
+            "y": 2244,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2272:2245": {
+            "x": 2272,
+            "y": 2245,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2272:2246": {
+            "x": 2272,
+            "y": 2246,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2281:2246": {
+            "x": 2281,
+            "y": 2246,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2281:2245": {
+            "x": 2281,
+            "y": 2245,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2281:2244": {
+            "x": 2281,
+            "y": 2244,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2281:2243": {
+            "x": 2281,
+            "y": 2243,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2281:2242": {
+            "x": 2281,
+            "y": 2242,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2280:2241": {
+            "x": 2280,
+            "y": 2241,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2279:2241": {
+            "x": 2279,
+            "y": 2241,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2278:2241": {
+            "x": 2278,
+            "y": 2241,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2277:2241": {
+            "x": 2277,
+            "y": 2241,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2276:2241": {
+            "x": 2276,
+            "y": 2241,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2275:2241": {
+            "x": 2275,
+            "y": 2241,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2274:2241": {
+            "x": 2274,
+            "y": 2241,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2274:2242": {
+            "x": 2274,
+            "y": 2242,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2273:2242": {
+            "x": 2273,
+            "y": 2242,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2273:2243": {
+            "x": 2273,
+            "y": 2243,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2273:2244": {
+            "x": 2273,
+            "y": 2244,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2273:2245": {
+            "x": 2273,
+            "y": 2245,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2273:2246": {
+            "x": 2273,
+            "y": 2246,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2274:2246": {
+            "x": 2274,
+            "y": 2246,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2275:2246": {
+            "x": 2275,
+            "y": 2246,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2276:2246": {
+            "x": 2276,
+            "y": 2246,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2277:2246": {
+            "x": 2277,
+            "y": 2246,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2278:2246": {
+            "x": 2278,
+            "y": 2246,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2279:2246": {
+            "x": 2279,
+            "y": 2246,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2280:2246": {
+            "x": 2280,
+            "y": 2246,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2280:2245": {
+            "x": 2280,
+            "y": 2245,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2280:2244": {
+            "x": 2280,
+            "y": 2244,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2280:2243": {
+            "x": 2280,
+            "y": 2243,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2280:2242": {
+            "x": 2280,
+            "y": 2242,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2279:2242": {
+            "x": 2279,
+            "y": 2242,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2278:2242": {
+            "x": 2278,
+            "y": 2242,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2277:2242": {
+            "x": 2277,
+            "y": 2242,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2276:2242": {
+            "x": 2276,
+            "y": 2242,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2275:2242": {
+            "x": 2275,
+            "y": 2242,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2274:2243": {
+            "x": 2274,
+            "y": 2243,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2274:2244": {
+            "x": 2274,
+            "y": 2244,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2274:2245": {
+            "x": 2274,
+            "y": 2245,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2275:2245": {
+            "x": 2275,
+            "y": 2245,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2276:2245": {
+            "x": 2276,
+            "y": 2245,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2277:2245": {
+            "x": 2277,
+            "y": 2245,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2278:2245": {
+            "x": 2278,
+            "y": 2245,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2279:2245": {
+            "x": 2279,
+            "y": 2245,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2279:2244": {
+            "x": 2279,
+            "y": 2244,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2279:2243": {
+            "x": 2279,
+            "y": 2243,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2276:2243": {
+            "x": 2276,
+            "y": 2243,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2275:2243": {
+            "x": 2275,
+            "y": 2243,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2275:2244": {
+            "x": 2275,
+            "y": 2244,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2276:2244": {
+            "x": 2276,
+            "y": 2244,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2277:2244": {
+            "x": 2277,
+            "y": 2244,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2278:2244": {
+            "x": 2278,
+            "y": 2244,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2278:2243": {
+            "x": 2278,
+            "y": 2243,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2277:2243": {
+            "x": 2277,
+            "y": 2243,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2279:2231": {
+            "x": 2279,
+            "y": 2231,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2281:2231": {
+            "x": 2281,
+            "y": 2231,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2275:2225": {
+            "x": 2275,
+            "y": 2225,
+            "object_code": "red_ball",
+            "other_options": {
+                "angle": 130
+            }
+        },
+        "2275:2226": {
+            "x": 2275,
+            "y": 2226,
+            "object_code": "red_ball",
+            "other_options": {
+                "angle": 130
+            }
+        },
+        "2270:2238": {
+            "x": 2270,
+            "y": 2238,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2270:2237": {
+            "x": 2270,
+            "y": 2237,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2270:2236": {
+            "x": 2270,
+            "y": 2236,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2271:2236": {
+            "x": 2271,
+            "y": 2236,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2272:2236": {
+            "x": 2272,
+            "y": 2236,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2273:2236": {
+            "x": 2273,
+            "y": 2236,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2274:2236": {
+            "x": 2274,
+            "y": 2236,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2275:2236": {
+            "x": 2275,
+            "y": 2236,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2276:2236": {
+            "x": 2276,
+            "y": 2236,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2277:2236": {
+            "x": 2277,
+            "y": 2236,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2278:2236": {
+            "x": 2278,
+            "y": 2236,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2279:2236": {
+            "x": 2279,
+            "y": 2236,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2280:2236": {
+            "x": 2280,
+            "y": 2236,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2281:2236": {
+            "x": 2281,
+            "y": 2236,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2282:2236": {
+            "x": 2282,
+            "y": 2236,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2283:2236": {
+            "x": 2283,
+            "y": 2236,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2283:2237": {
+            "x": 2283,
+            "y": 2237,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2283:2238": {
+            "x": 2283,
+            "y": 2238,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2282:2238": {
+            "x": 2282,
+            "y": 2238,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2273:2238": {
+            "x": 2273,
+            "y": 2238,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2272:2238": {
+            "x": 2272,
+            "y": 2238,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2271:2238": {
+            "x": 2271,
+            "y": 2238,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2272:2237": {
+            "x": 2272,
+            "y": 2237,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2273:2237": {
+            "x": 2273,
+            "y": 2237,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2274:2237": {
+            "x": 2274,
+            "y": 2237,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2275:2237": {
+            "x": 2275,
+            "y": 2237,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2276:2237": {
+            "x": 2276,
+            "y": 2237,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2277:2237": {
+            "x": 2277,
+            "y": 2237,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2278:2237": {
+            "x": 2278,
+            "y": 2237,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2279:2237": {
+            "x": 2279,
+            "y": 2237,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2280:2237": {
+            "x": 2280,
+            "y": 2237,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2281:2237": {
+            "x": 2281,
+            "y": 2237,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2281:2238": {
+            "x": 2281,
+            "y": 2238,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2280:2238": {
+            "x": 2280,
+            "y": 2238,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2282:2237": {
+            "x": 2282,
+            "y": 2237,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2279:2238": {
+            "x": 2279,
+            "y": 2238,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2278:2238": {
+            "x": 2278,
+            "y": 2238,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2277:2238": {
+            "x": 2277,
+            "y": 2238,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2276:2238": {
+            "x": 2276,
+            "y": 2238,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2275:2238": {
+            "x": 2275,
+            "y": 2238,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2274:2238": {
+            "x": 2274,
+            "y": 2238,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2271:2237": {
+            "x": 2271,
+            "y": 2237,
+            "object_code": "green_ball",
+            "other_options": {}
+        }
+    },
+    "player_position": {
+        "x": 2272,
+        "y": 2272
+    },
+    "min_score_to_win": 30,
+    "time_limit": 60,
+    "acceleration": 22,
+    "contact_radius_size": 300,
+    "max_speed": 380,
+    "zoom_value": 30,
+    "add_powers": false,
+    "map_edge_type": "deadly",
+    "edge_distance": 30,
+    "next_level": "",
+    "slow_time": "0.5",
+    "slow_time_duration": "1",
+    "size_power": "20",
+    "size_power_duration": "1",
+    "speed_power": "2",
+    "speed_power_duration": "1",
+    "tutorial": {},
+    "space_background": {}
+}
