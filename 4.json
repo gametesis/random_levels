@@ -36,7 +36,10 @@
             "x": 2394,
             "y": 2380,
             "object_code": "purple_ball",
-            "other_options": {}
+            "other_options": {
+                "angle":20,
+                "go_to_position":true
+            }
         },
         "2394:2379": {
             "x": 2394,
@@ -1948,7 +1951,7 @@
     "size_power": "20",
     "size_power_duration": "1",
     "speed_power": "2",
-    "speed_power_duration": "1",
+    "speed_power_duration": "0.4",
     "tutorial": {},
     "space_background": {}
 }
