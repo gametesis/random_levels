@@ -1,0 +1,117 @@
+{
+    "map": {
+        "2272:2279": {
+            "x": 2272,
+            "y": 2279,
+            "object_code": "green_enemy",
+            "other_options": {
+                "distance":1000,
+                "strength":10
+            }
+        },
+        "2272:2269": {
+            "x": 2272,
+            "y": 2269,
+            "object_code": "green_dash",
+            "other_options": {}
+        },
+        "2277:2260": {
+            "x": 2277,
+            "y": 2260,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2287:2270": {
+            "x": 2287,
+            "y": 2270,
+            "object_code": "blue_ball",
+            "other_options": {}
+        },
+        "2279:2291": {
+            "x": 2279,
+            "y": 2291,
+            "object_code": "blue_ball",
+            "other_options": {}
+        },
+        "2256:2280": {
+            "x": 2256,
+            "y": 2280,
+            "object_code": "blue_ball",
+            "other_options": {}
+        },
+        "2252:2269": {
+            "x": 2252,
+            "y": 2269,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2262:2294": {
+            "x": 2262,
+            "y": 2294,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2294:2290": {
+            "x": 2294,
+            "y": 2290,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2249:2287": {
+            "x": 2249,
+            "y": 2287,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2293:2277": {
+            "x": 2293,
+            "y": 2277,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2261:2263": {
+            "x": 2261,
+            "y": 2263,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2273:2297": {
+            "x": 2273,
+            "y": 2297,
+            "object_code": "red_ball",
+            "other_options": {}
+        }
+    },
+    "player_position": {
+        "x": 2272,
+        "y": 2272
+    },
+    "min_score_to_win": 10,
+    "time_limit": 30,
+    "acceleration": 30,
+    "contact_radius_size": 500,
+    "max_speed": 550,
+    "zoom_value": 25,
+    "add_powers": false,
+    "map_edge_type": "deadly",
+    "edge_distance": 300,
+    "next_level":"",
+    "slow_time": "0.5",
+    "slow_time_duration": "1",
+    "size_power": "20",
+    "size_power_duration": "1",
+    "speed_power": "2",
+    "speed_power_duration": "1",
+    "tutorial": {
+        "n_deaths":{
+            "0":["Orbital gravity"],
+            "1":["There is a time limit!"]
+        }
+    },
+    "space_background": {
+        "p_size": 0.4,
+        "impact_force": 1,
+        "number_of_particles": 200,
+        "collisions":true
+    }
+}
