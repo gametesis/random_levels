@@ -1,0 +1,685 @@
+{
+    "map": {
+        "2083:2071": {
+            "x": 2083,
+            "y": 2071,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2080:2076": {
+            "x": 2080,
+            "y": 2076,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2077:2069": {
+            "x": 2077,
+            "y": 2069,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2077:2070": {
+            "x": 2077,
+            "y": 2070,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2076:2070": {
+            "x": 2076,
+            "y": 2070,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2076:2069": {
+            "x": 2076,
+            "y": 2069,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2080:2063": {
+            "x": 2080,
+            "y": 2063,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2080:2064": {
+            "x": 2080,
+            "y": 2064,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2086:2062": {
+            "x": 2086,
+            "y": 2062,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2086:2063": {
+            "x": 2086,
+            "y": 2063,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2087:2063": {
+            "x": 2087,
+            "y": 2063,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2087:2062": {
+            "x": 2087,
+            "y": 2062,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2073:2058": {
+            "x": 2073,
+            "y": 2058,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2073:2059": {
+            "x": 2073,
+            "y": 2059,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2073:2060": {
+            "x": 2073,
+            "y": 2060,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2073:2061": {
+            "x": 2073,
+            "y": 2061,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2073:2062": {
+            "x": 2073,
+            "y": 2062,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2073:2063": {
+            "x": 2073,
+            "y": 2063,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2072:2063": {
+            "x": 2072,
+            "y": 2063,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2071:2063": {
+            "x": 2071,
+            "y": 2063,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2070:2063": {
+            "x": 2070,
+            "y": 2063,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2069:2063": {
+            "x": 2069,
+            "y": 2063,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2068:2063": {
+            "x": 2068,
+            "y": 2063,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2067:2063": {
+            "x": 2067,
+            "y": 2063,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2067:2062": {
+            "x": 2067,
+            "y": 2062,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2067:2061": {
+            "x": 2067,
+            "y": 2061,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2067:2060": {
+            "x": 2067,
+            "y": 2060,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2067:2059": {
+            "x": 2067,
+            "y": 2059,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2067:2058": {
+            "x": 2067,
+            "y": 2058,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2067:2057": {
+            "x": 2067,
+            "y": 2057,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2067:2056": {
+            "x": 2067,
+            "y": 2056,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2067:2055": {
+            "x": 2067,
+            "y": 2055,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2087:2050": {
+            "x": 2087,
+            "y": 2050,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2067:2054": {
+            "x": 2067,
+            "y": 2054,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2067:2053": {
+            "x": 2067,
+            "y": 2053,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2067:2052": {
+            "x": 2067,
+            "y": 2052,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2067:2051": {
+            "x": 2067,
+            "y": 2051,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2067:2050": {
+            "x": 2067,
+            "y": 2050,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2068:2050": {
+            "x": 2068,
+            "y": 2050,
+            "object_code": "red_enemy",
+            "other_options": {
+                "action": "//open the gate action\n if(GAME_LOGIC.game.level_vars.gate_open){\n self.move((2068-7)*self.width,self.y)}"
+            }
+        },
+        "2069:2050": {
+            "x": 2069,
+            "y": 2050,
+            "object_code": "red_enemy",
+            "other_options": {
+                "action": "//open the gate action\n if(GAME_LOGIC.game.level_vars.gate_open){\n self.move((2069-7)*self.width,self.y)}"
+            }
+        },
+        "2070:2050": {
+            "x": 2070,
+            "y": 2050,
+            "object_code": "red_enemy",
+            "other_options": {
+                "action": "//open the gate action\n if(GAME_LOGIC.game.level_vars.gate_open){\n self.move((2070-7)*self.width,self.y)}"
+            }
+        },
+        "2071:2050": {
+            "x": 2071,
+            "y": 2050,
+            "object_code": "red_enemy",
+            "other_options": {
+                "action": "//open the gate action\n if(GAME_LOGIC.game.level_vars.gate_open){\n self.move((2071-7)*self.width,self.y)}"
+            }
+        },
+        "2072:2050": {
+            "x": 2072,
+            "y": 2050,
+            "object_code": "red_enemy",
+            "other_options": {
+                "action": "//open the gate action\n if(GAME_LOGIC.game.level_vars.gate_open){\n self.move((2072-7)*self.width,self.y)}"
+            }
+        },
+        "2070:2061": {
+            "x": 2070,
+            "y": 2061,
+            "object_code": "blue_portal",
+            "other_options": {
+                "portal_id": 0,
+                "portal_entry": true,
+                "distance": 100,
+                "strength": 20,
+                "action":"if(GAME_LOGIC.game.player.just_enter_portal && GAME_LOGIC.game.player.portal_id===0){\n GAME_LOGIC.game.level_vars.gate_open=true \n }"
+            }
+        },
+        "2083:2092": {
+            "x": 2083,
+            "y": 2092,
+            "object_code": "blue_portal",
+            "other_options": {
+                "portal_id": 1,
+                "portal_entry": false,
+                "angle":-90
+            }
+        },
+        "2069:2046": {
+            "x": 2069,
+            "y": 2046,
+            "object_code": "blue_ball",
+            "other_options": {}
+        },
+        "2070:2046": {
+            "x": 2070,
+            "y": 2046,
+            "object_code": "blue_ball",
+            "other_options": {}
+        },
+        "2070:2045": {
+            "x": 2070,
+            "y": 2045,
+            "object_code": "blue_ball",
+            "other_options": {}
+        },
+        "2070:2044": {
+            "x": 2070,
+            "y": 2044,
+            "object_code": "blue_ball",
+            "other_options": {}
+        },
+        "2070:2043": {
+            "x": 2070,
+            "y": 2043,
+            "object_code": "blue_ball",
+            "other_options": {}
+        },
+        "2070:2042": {
+            "x": 2070,
+            "y": 2042,
+            "object_code": "blue_ball",
+            "other_options": {}
+        },
+        "2070:2041": {
+            "x": 2070,
+            "y": 2041,
+            "object_code": "blue_ball",
+            "other_options": {}
+        },
+        "2070:2040": {
+            "x": 2070,
+            "y": 2040,
+            "object_code": "blue_ball",
+            "other_options": {}
+        },
+        "2070:2039": {
+            "x": 2070,
+            "y": 2039,
+            "object_code": "blue_ball",
+            "other_options": {}
+        },
+        "2069:2039": {
+            "x": 2069,
+            "y": 2039,
+            "object_code": "blue_ball",
+            "other_options": {}
+        },
+        "2069:2040": {
+            "x": 2069,
+            "y": 2040,
+            "object_code": "blue_ball",
+            "other_options": {}
+        },
+        "2069:2041": {
+            "x": 2069,
+            "y": 2041,
+            "object_code": "blue_ball",
+            "other_options": {}
+        },
+        "2069:2042": {
+            "x": 2069,
+            "y": 2042,
+            "object_code": "blue_ball",
+            "other_options": {}
+        },
+        "2069:2043": {
+            "x": 2069,
+            "y": 2043,
+            "object_code": "blue_ball",
+            "other_options": {}
+        },
+        "2069:2044": {
+            "x": 2069,
+            "y": 2044,
+            "object_code": "blue_ball",
+            "other_options": {}
+        },
+        "2069:2045": {
+            "x": 2069,
+            "y": 2045,
+            "object_code": "blue_ball",
+            "other_options": {}
+        },
+        "2071:2046": {
+            "x": 2071,
+            "y": 2046,
+            "object_code": "blue_ball",
+            "other_options": {}
+        },
+        "2071:2045": {
+            "x": 2071,
+            "y": 2045,
+            "object_code": "blue_ball",
+            "other_options": {}
+        },
+        "2071:2044": {
+            "x": 2071,
+            "y": 2044,
+            "object_code": "blue_ball",
+            "other_options": {}
+        },
+        "2071:2043": {
+            "x": 2071,
+            "y": 2043,
+            "object_code": "blue_ball",
+            "other_options": {}
+        },
+        "2071:2042": {
+            "x": 2071,
+            "y": 2042,
+            "object_code": "blue_ball",
+            "other_options": {}
+        },
+        "2071:2041": {
+            "x": 2071,
+            "y": 2041,
+            "object_code": "blue_ball",
+            "other_options": {}
+        },
+        "2071:2040": {
+            "x": 2071,
+            "y": 2040,
+            "object_code": "blue_ball",
+            "other_options": {}
+        },
+        "2071:2039": {
+            "x": 2071,
+            "y": 2039,
+            "object_code": "blue_ball",
+            "other_options": {}
+        },
+        "2082:2054": {
+            "x": 2082,
+            "y": 2054,
+            "object_code": "blue_dash",
+            "other_options": {
+                "angle":180
+            }
+        },
+        "2073:2057": {
+            "x": 2073,
+            "y": 2057,
+            "object_code": "blue_enemy",
+            "other_options": {
+                "action": "if(GAME_LOGIC.game.level_vars.gate_open && self.enter==undefined){\n GAME_LOGIC.game.createDash(2070*self.width,2052*self.height,\"blue\",{\"action\":\"let angle=-90; let speed=GAME_LOGIC.game.speed_limit; let ball_size=GAME_LOGIC.game.ball_size ; let x_direction=Math.cos(angle*(Math.PI/180))*speed; let y_direction=Math.sin(angle*(Math.PI/180))*speed;  dx=GAME_LOGIC.game.player.x-self.x;  dy=GAME_LOGIC.game.player.y-self.y; let distance=Math.sqrt(dx*dx+dy*dy); if(distance<=self.width+10){ GAME_LOGIC.game.player.speedx=x_direction; GAME_LOGIC.game.player.speedy=y_direction }\"})\n let d=GAME_LOGIC.game.createDash(2082*self.width,2054*self.height,\"blue\",{\"action\":\"let angle=180; let speed=GAME_LOGIC.game.speed_limit; let ball_size=GAME_LOGIC.game.ball_size ; let x_direction=Math.cos(angle*(Math.PI/180))*speed; let y_direction=Math.sin(angle*(Math.PI/180))*speed;  dx=GAME_LOGIC.game.player.x-self.x;  dy=GAME_LOGIC.game.player.y-self.y; let distance=Math.sqrt(dx*dx+dy*dy); if(distance<=self.width+10){ GAME_LOGIC.game.player.speedx=x_direction; GAME_LOGIC.game.player.speedy=y_direction }\"})\n  \n self.enter=true \n}\n"
+            }
+        },
+        "2074:2057": {
+            "x": 2074,
+            "y": 2057,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2075:2057": {
+            "x": 2075,
+            "y": 2057,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2078:2057": {
+            "x": 2078,
+            "y": 2057,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2079:2057": {
+            "x": 2079,
+            "y": 2057,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2080:2057": {
+            "x": 2080,
+            "y": 2057,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2081:2057": {
+            "x": 2081,
+            "y": 2057,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2076:2057": {
+            "x": 2076,
+            "y": 2057,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2077:2057": {
+            "x": 2077,
+            "y": 2057,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2082:2095": {
+            "x": 2082,
+            "y": 2095,
+            "object_code": "black_ball",
+            "other_options": {}
+        },
+        "2083:2095": {
+            "x": 2083,
+            "y": 2095,
+            "object_code": "black_ball",
+            "other_options": {}
+        },
+        "2084:2095": {
+            "x": 2084,
+            "y": 2095,
+            "object_code": "black_ball",
+            "other_options": {}
+        },
+        "2073:2050": {
+            "x": 2073,
+            "y": 2050,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2074:2050": {
+            "x": 2074,
+            "y": 2050,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2075:2050": {
+            "x": 2075,
+            "y": 2050,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2076:2050": {
+            "x": 2076,
+            "y": 2050,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2077:2050": {
+            "x": 2077,
+            "y": 2050,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2078:2050": {
+            "x": 2078,
+            "y": 2050,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2079:2050": {
+            "x": 2079,
+            "y": 2050,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2080:2050": {
+            "x": 2080,
+            "y": 2050,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2081:2050": {
+            "x": 2081,
+            "y": 2050,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2082:2050": {
+            "x": 2082,
+            "y": 2050,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2083:2050": {
+            "x": 2083,
+            "y": 2050,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2084:2050": {
+            "x": 2084,
+            "y": 2050,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2085:2050": {
+            "x": 2085,
+            "y": 2050,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2086:2050": {
+            "x": 2086,
+            "y": 2050,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2088:2050": {
+            "x": 2088,
+            "y": 2050,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2088:2051": {
+            "x": 2088,
+            "y": 2051,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2088:2052": {
+            "x": 2088,
+            "y": 2052,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2088:2053": {
+            "x": 2088,
+            "y": 2053,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2088:2054": {
+            "x": 2088,
+            "y": 2054,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2088:2055": {
+            "x": 2088,
+            "y": 2055,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2088:2056": {
+            "x": 2088,
+            "y": 2056,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2088:2057": {
+            "x": 2088,
+            "y": 2057,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2083:2080": {
+            "x": 2083,
+            "y": 2080,
+            "object_code": "green_dash",
+            "other_options": {}
+        }
+    },
+    "player_position": {
+        "x": 2083,
+        "y": 2083
+    },
+    "min_score_to_win": 10,
+    "time_limit": null,
+    "acceleration": 22,
+    "contact_radius_size": 300,
+    "max_speed": 400,
+    "zoom_value": 35,
+    "add_powers": false,
+    "map_edge_type": "deadly",
+    "edge_distance": 50,
+    "next_level": "{{home}}/30.json",
+    "slow_time": "0.5",
+    "slow_time_duration": "1",
+    "size_power": "20",
+    "size_power_duration": "1",
+    "speed_power": "2",
+    "speed_power_duration": "1",
+    "tutorial": {},
+    "space_background": {
+        "p_size": 0.3,
+        "impact_force": 1,
+        "number_of_particles": 100,
+        "collisions":true
+    }
+}
