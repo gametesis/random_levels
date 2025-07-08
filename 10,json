@@ -1,0 +1,68 @@
+{
+    "map": {
+        "2279:2271": {
+            "x": 2279,
+            "y": 2270,
+            "object_code": "red_dash",
+            "other_options": {}
+        },
+        "2279:2273": {
+            "x": 2279,
+            "y": 2273,
+            "object_code": "white_X",
+            "other_options": {
+                "distance": 200,
+                "strength": 5,
+                "action": "let deal_with_slowtime = GAME_LOGIC.game.player.slow_time * GAME_LOGIC.game.game_speed_global\n if(getElement(\"score_text\").innerText=='2' && GAME_LOGIC.game.level_vars.trigger0==undefined ){ \n GAME_LOGIC.game.level_vars.trigger0=true \n GAME_LOGIC.game.level_vars.trigger1=GAME_LOGIC.game.real_time+0.3*(1/deal_with_slowtime)  \n} \n if(GAME_LOGIC.game.level_vars.trigger1!=undefined && GAME_LOGIC.game.level_vars.trigger1<GAME_LOGIC.game.real_time && GAME_LOGIC.game.level_vars.t1==undefined){\n GAME_LOGIC.game.level_vars.t1=true \n GAME_LOGIC.game.createBall(2285*GAME_LOGIC.game.ball_size,2273*GAME_LOGIC.game.ball_size,GAME_LOGIC.game.level_vars.color,{\"angle\":135,\"distance\":100,\"strength\":8}) \n} \n if(getElement(\"score_text\").innerText=='3' && GAME_LOGIC.game.level_vars.trigger2==undefined){\n GAME_LOGIC.game.level_vars.trigger2=GAME_LOGIC.game.real_time+0.3*(1/deal_with_slowtime) \n}  \n   if( GAME_LOGIC.game.level_vars.trigger2!=undefined && GAME_LOGIC.game.level_vars.trigger2<GAME_LOGIC.game.real_time && GAME_LOGIC.game.level_vars.t2==undefined){\n GAME_LOGIC.game.level_vars.t2=true \n GAME_LOGIC.game.createBall(2285*GAME_LOGIC.game.ball_size,2273*GAME_LOGIC.game.ball_size,GAME_LOGIC.game.level_vars.color,{\"angle\":45,\"distance\":100,\"strength\":8}) \n} \n if(getElement(\"score_text\").innerText=='4' && GAME_LOGIC.game.level_vars.trigger3==undefined){\n GAME_LOGIC.game.level_vars.trigger3=GAME_LOGIC.game.real_time+0.3*(1/deal_with_slowtime) \n }  \n if( GAME_LOGIC.game.level_vars.trigger3!=undefined && GAME_LOGIC.game.level_vars.trigger3<GAME_LOGIC.game.real_time && GAME_LOGIC.game.level_vars.t3==undefined){\n GAME_LOGIC.game.level_vars.t3=true \n GAME_LOGIC.game.createBall(2285*GAME_LOGIC.game.ball_size,2273*GAME_LOGIC.game.ball_size,GAME_LOGIC.game.level_vars.color,{\"angle\":135,\"distance\":100,\"strength\":8}) \n}\n if(getElement(\"score_text\").innerText=='5' && GAME_LOGIC.game.level_vars.trigger4==undefined){\n GAME_LOGIC.game.level_vars.trigger4=GAME_LOGIC.game.real_time+0.3*(1/deal_with_slowtime)\n}  \n if( GAME_LOGIC.game.level_vars.trigger4!=undefined && GAME_LOGIC.game.level_vars.trigger4<GAME_LOGIC.game.real_time && GAME_LOGIC.game.level_vars.t4==undefined){\n GAME_LOGIC.game.level_vars.t4=true \n GAME_LOGIC.game.createBall(2285*GAME_LOGIC.game.ball_size,2273*GAME_LOGIC.game.ball_size,GAME_LOGIC.game.level_vars.color,{\"angle\":45,\"distance\":100,\"strength\":8}) \n} \n if(getElement(\"score_text\").innerText=='6' && GAME_LOGIC.game.level_vars.trigger5==undefined){\n GAME_LOGIC.game.level_vars.trigger5=GAME_LOGIC.game.real_time+0.3*(1/deal_with_slowtime)\n}  \n if( GAME_LOGIC.game.level_vars.trigger5!=undefined && GAME_LOGIC.game.level_vars.trigger5<GAME_LOGIC.game.real_time && GAME_LOGIC.game.level_vars.t5==undefined){\n GAME_LOGIC.game.level_vars.t5=true \n GAME_LOGIC.game.createBall(2285*GAME_LOGIC.game.ball_size,2273*GAME_LOGIC.game.ball_size,GAME_LOGIC.game.level_vars.color,{\"angle\":135,\"distance\":100,\"strength\":8}) \n} \n if(getElement(\"score_text\").innerText=='7' && GAME_LOGIC.game.level_vars.trigger6==undefined){\n GAME_LOGIC.game.level_vars.trigger6=GAME_LOGIC.game.real_time+0.3*(1/deal_with_slowtime)\n}  \n if( GAME_LOGIC.game.level_vars.trigger6!=undefined && GAME_LOGIC.game.level_vars.trigger6<GAME_LOGIC.game.real_time && GAME_LOGIC.game.level_vars.t6==undefined){\n GAME_LOGIC.game.level_vars.t6=true \n GAME_LOGIC.game.createBall(2285*GAME_LOGIC.game.ball_size,2273*GAME_LOGIC.game.ball_size,GAME_LOGIC.game.level_vars.color,{\"angle\":45,\"distance\":100,\"strength\":8}) \n} \n if(getElement(\"score_text\").innerText=='8' && GAME_LOGIC.game.level_vars.trigger7==undefined){\n GAME_LOGIC.game.level_vars.trigger7=GAME_LOGIC.game.real_time+0.3*(1/deal_with_slowtime)\n}  \n if( GAME_LOGIC.game.level_vars.trigger7!=undefined && GAME_LOGIC.game.level_vars.trigger7<GAME_LOGIC.game.real_time && GAME_LOGIC.game.level_vars.t7==undefined){\n GAME_LOGIC.game.level_vars.t7=true \n GAME_LOGIC.game.createBall(2285*GAME_LOGIC.game.ball_size,2273*GAME_LOGIC.game.ball_size,GAME_LOGIC.game.level_vars.color,{\"angle\":135,\"distance\":100,\"strength\":8}) \n}\n if(getElement(\"score_text\").innerText=='9' && GAME_LOGIC.game.level_vars.trigger8==undefined){\n GAME_LOGIC.game.level_vars.trigger8=GAME_LOGIC.game.real_time+0.3*(1/deal_with_slowtime)\n}  \n if( GAME_LOGIC.game.level_vars.trigger8!=undefined && GAME_LOGIC.game.level_vars.trigger8<GAME_LOGIC.game.real_time && GAME_LOGIC.game.level_vars.t8==undefined){\n GAME_LOGIC.game.level_vars.t8=true \n GAME_LOGIC.game.createBall(2285*GAME_LOGIC.game.ball_size,2273*GAME_LOGIC.game.ball_size,GAME_LOGIC.game.level_vars.color,{\"angle\":45,\"distance\":100,\"strength\":8}) \n} \n"
+            }
+        },
+        "2285:2273": {
+            "x": 2285,
+            "y": 2273,
+            "object_code": "red_ball",
+            "other_options": {
+                "angle": 45,
+                "distance": 100,
+                "strength": 8
+            }
+        },
+        "2291:2273": {
+            "x": 2291,
+            "y": 2273,
+            "object_code": "white_X",
+            "other_options": {
+                "distance": 200,
+                "strength": 5,
+                "action":"let r=Math.random() \n GAME_LOGIC.game.level_vars.color=\"red\"; \n if(r<0.33){GAME_LOGIC.game.level_vars.color=\"red\"}else if(r>0.33 && r<0.66){GAME_LOGIC.game.level_vars.color=\"green\"} else if(r>0.66){GAME_LOGIC.game.level_vars.color=\"blue\"}"
+            }
+        }
+    },
+    "player_position": {
+        "x": 2277,
+        "y": 2270
+    },
+    "min_score_to_win": 10,
+    "time_limit": 20,
+    "acceleration": 20,
+    "contact_radius_size": 300,
+    "max_speed": 350,
+    "zoom_value": 30,
+    "add_powers": false,
+    "map_edge_type": "deadly",
+    "edge_distance": 300,
+    "next_level": "",
+    "slow_time": "0.5",
+    "slow_time_duration": "1",
+    "size_power": "20",
+    "size_power_duration": "1",
+    "speed_power": "2",
+    "speed_power_duration": "1",
+    "tutorial": {
+        "n_deaths":{
+            "0":["Different colors every time!"]
+        }
+    },
+    "space_background": {
+        "number_of_particles": 600
+    }
+}
