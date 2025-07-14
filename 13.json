@@ -1,0 +1,283 @@
+{
+    "map": {
+        "2639:2643": {
+            "x": 2639,
+            "y": 2643,
+            "object_code": "blue_ball",
+            "other_options": {
+                "movement": {
+                    "x": "self.x",
+                    "y": "2643*GAME_LOGIC.game.ball_size+Math.sin(1.2*GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time-0)*200"
+                }
+            }
+        },
+        "2643:2643": {
+            "x": 2643,
+            "y": 2643,
+            "object_code": "blue_ball",
+            "other_options": {
+                "movement": {
+                    "x": "self.x",
+                    "y": "2643*GAME_LOGIC.game.ball_size+Math.sin(1.2*GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time-1)*200"
+                }
+            }
+        },
+        "2647:2643": {
+            "x": 2647,
+            "y": 2643,
+            "object_code": "blue_ball",
+            "other_options": {
+                "movement": {
+                    "x": "self.x",
+                    "y": "2643*GAME_LOGIC.game.ball_size+Math.sin(1.2*GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time-2)*200"
+                }
+            }
+        },
+        "2651:2643": {
+            "x": 2651,
+            "y": 2643,
+            "object_code": "blue_ball",
+            "other_options": {
+                "movement": {
+                    "x": "self.x",
+                    "y": "2643*GAME_LOGIC.game.ball_size+Math.sin(1.2*GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time-3)*200"
+                }
+            }
+        },
+        "2655:2643": {
+            "x": 2655,
+            "y": 2643,
+            "object_code": "blue_ball",
+            "other_options": {
+                "movement": {
+                    "x": "self.x",
+                    "y": "2643*GAME_LOGIC.game.ball_size+Math.sin(1.2*GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time-4)*200"
+                }
+            }
+        },
+        "2659:2643": {
+            "x": 2659,
+            "y": 2643,
+            "object_code": "blue_ball",
+            "other_options": {
+                "movement": {
+                    "x": "self.x",
+                    "y": "2643*GAME_LOGIC.game.ball_size+Math.sin(1.2*GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time-5)*200"
+                }
+            }
+        },
+        "2663:2643": {
+            "x": 2663,
+            "y": 2643,
+            "object_code": "blue_ball",
+            "other_options": {
+                "movement": {
+                    "x": "self.x",
+                    "y": "2643*GAME_LOGIC.game.ball_size+Math.sin(1.2*GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time-6)*200"
+                }
+            }
+        },
+        "2667:2643": {
+            "x": 2667,
+            "y": 2643,
+            "object_code": "blue_ball",
+            "other_options": {
+                "movement": {
+                    "x": "self.x",
+                    "y": "2643*GAME_LOGIC.game.ball_size+Math.sin(1.2*GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time-7)*200"
+                }
+            }
+        },
+        "2671:2643": {
+            "x": 2671,
+            "y": 2643,
+            "object_code": "blue_ball",
+            "other_options": {
+                "movement": {
+                    "x": "self.x",
+                    "y": "2643*GAME_LOGIC.game.ball_size+Math.sin(1.2*GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time-8)*200"
+                }
+            }
+        },
+        "2675:2643": {
+            "x": 2675,
+            "y": 2643,
+            "object_code": "blue_ball",
+            "other_options": {
+                "movement": {
+                    "x": "self.x",
+                    "y": "2643*GAME_LOGIC.game.ball_size+Math.sin(1.2*GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time-9)*200"
+                }
+            }
+        },
+        "2679:2643": {
+            "x": 2679,
+            "y": 2643,
+            "object_code": "blue_ball",
+            "other_options": {
+                "movement": {
+                    "x": "self.x",
+                    "y": "2643*GAME_LOGIC.game.ball_size+Math.sin(1.2*GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time-10)*200"
+                }
+            }
+        },
+        "2683:2643": {
+            "x": 2683,
+            "y": 2643,
+            "object_code": "blue_ball",
+            "other_options": {
+                "movement": {
+                    "x": "self.x",
+                    "y": "2643*GAME_LOGIC.game.ball_size+Math.sin(1.2*GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time-11)*200"
+                }
+            }
+        },
+        "2687:2643": {
+            "x": 2687,
+            "y": 2643,
+            "object_code": "blue_ball",
+            "other_options": {
+                "movement": {
+                    "x": "self.x",
+                    "y": "2643*GAME_LOGIC.game.ball_size+Math.sin(1.2*GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time-12)*200"
+                }
+            }
+        },
+        "2691:2643": {
+            "x": 2691,
+            "y": 2643,
+            "object_code": "blue_ball",
+            "other_options": {
+                "movement": {
+                    "x": "self.x",
+                    "y": "2643*GAME_LOGIC.game.ball_size+Math.sin(1.2*GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time-13)*200"
+                }
+            }
+        },
+        "2695:2643": {
+            "x": 2695,
+            "y": 2643,
+            "object_code": "blue_ball",
+            "other_options": {
+                "movement": {
+                    "x": "self.x",
+                    "y": "2643*GAME_LOGIC.game.ball_size+Math.sin(1.2*GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time-14)*200"
+                }
+            }
+        },
+        "2699:2643": {
+            "x": 2699,
+            "y": 2643,
+            "object_code": "blue_ball",
+            "other_options": {
+                "movement": {
+                    "x": "self.x",
+                    "y": "2643*GAME_LOGIC.game.ball_size+Math.sin(1.2*GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time-15)*200"
+                }
+            }
+        },
+        "2703:2643": {
+            "x": 2703,
+            "y": 2643,
+            "object_code": "blue_ball",
+            "other_options": {
+                "movement": {
+                    "x": "self.x",
+                    "y": "2643*GAME_LOGIC.game.ball_size+Math.sin(1.2*GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time-16)*200"
+                }
+            }
+        },
+        "2707:2643": {
+            "x": 2707,
+            "y": 2643,
+            "object_code": "blue_ball",
+            "other_options": {
+                "movement": {
+                    "x": "self.x",
+                    "y": "2643*GAME_LOGIC.game.ball_size+Math.sin(1.2*GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time-17)*200"
+                }
+            }
+        },
+        "2711:2643": {
+            "x": 2711,
+            "y": 2643,
+            "object_code": "blue_ball",
+            "other_options": {
+                "movement": {
+                    "x": "self.x",
+                    "y": "2643*GAME_LOGIC.game.ball_size+Math.sin(1.2*GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time-18)*200"
+                }
+            }
+        },
+        "2715:2643": {
+            "x": 2715,
+            "y": 2643,
+            "object_code": "blue_ball",
+            "other_options": {
+                "movement": {
+                    "x": "self.x",
+                    "y": "2643*GAME_LOGIC.game.ball_size+Math.sin(1.2*GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time-19)*200"
+                }
+            }
+        },
+        "2631:2625": {
+            "x": 2631,
+            "y": 2625,
+            "object_code": "red_enemy",
+            "other_options": {
+                "movement": {
+                    "x": "2631*GAME_LOGIC.game.ball_size+Math.abs(Math.sin(0.1*GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time)*2000)",
+                    "y": "self.y"
+                }
+            }
+        },
+        "2721:2656": {
+            "x": 2721,
+            "y": 2656,
+            "object_code": "red_enemy",
+            "other_options": {
+                "movement": {
+                    "x": "2721*GAME_LOGIC.game.ball_size+-Math.abs(Math.sin(0.1*GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time)*2000)",
+                    "y": "self.y"
+                },
+                "action":"if(self.t1==undefined){GAME_LOGIC.game.level_vars.g_time=0\n self.t1=true}"
+                
+            }
+        },
+        "2722:2656": {
+            "x": 2722,
+            "y": 2656,
+            "object_code": "black_ball",
+            "other_options": {
+                "action": "let deal_with_slowtime=GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global \n GAME_LOGIC.game.level_vars.g_time+=GAME_LOGIC.game.dt \n if(self.real_time*deal_with_slowtime>0.1){\nself.real_time=0\n if(GAME_LOGIC.game.level_vars.g_time<5){GAME_LOGIC.game.player.speedy+=50}\n if(GAME_LOGIC.game.level_vars.g_time>5 && GAME_LOGIC.game.level_vars.g_time<10){GAME_LOGIC.game.player.speedy-=50}\n if(GAME_LOGIC.game.level_vars.g_time>10){GAME_LOGIC.game.level_vars.g_time=0} \n}"
+            }
+        }
+    },
+    "player_position": {
+        "x": 2631,
+        "y": 2631
+    },
+    "min_score_to_win": 15,
+    "time_limit": null,
+    "acceleration": 30,
+    "contact_radius_size": 450,
+    "max_speed": 450,
+    "zoom_value": 24,
+    "add_powers": false,
+    "map_edge_type": "deadly",
+    "edge_distance": 300,
+    "next_level": "",
+    "slow_time": "0.5",
+    "slow_time_duration": "1",
+    "size_power": "20",
+    "size_power_duration": "1",
+    "speed_power": "2",
+    "speed_power_duration": "1",
+    "tutorial": {
+        "n_deaths":{
+            "0":["Shifting Gravity!"],
+            "1":["Every 5 seconds gravity changes!"]
+        }
+    },
+    "space_background": {}
+}
