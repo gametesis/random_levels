@@ -1,0 +1,88 @@
+{
+    "map": {
+        "2284:2272": {
+            "x": 2284,
+            "y": 2272,
+            "object_code": "green_portal",
+            "other_options": {
+                "portal_id": 0,
+                "portal_entry": true,
+                "movement": {
+                    "x": "2275*GAME_LOGIC.game.ball_size+Math.cos(GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time-3)*153",
+                    "y": "2272*GAME_LOGIC.game.ball_size+Math.sin(GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time-3)*153"
+                },
+                "distance":200,
+                "strength":20
+                
+            }
+        },
+        "2260:2272": {
+            "x": 2260,
+            "y": 2272,
+            "object_code": "blue_portal",
+            "other_options": {
+                "portal_id": 1,
+                "portal_entry": false,
+                "movement": {
+                    "x": "2275*GAME_LOGIC.game.ball_size+Math.cos(GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time)*153",
+                    "y": "2272*GAME_LOGIC.game.ball_size+Math.sin(GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time)*153"
+                },
+                "distance":200,
+                "strength":20
+            }
+        },
+        "2272:2293": {
+            "x": 2272,
+            "y": 2293,
+            "object_code": "red_portal",
+            "other_options": {
+                "portal_id": 2,
+                "portal_entry": true,
+                "strength": 20,
+                "distance": 200,
+                "angle":-90,
+                "action":"let deal_with_slowtime=GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global \n if(self.real_time*deal_with_slowtime>0.1){\nself.real_time=0\n GAME_LOGIC.game.player.speedy+=50 \n}"
+            }
+        },
+        "2272:2260": {
+            "x": 2272,
+            "y": 2255,
+            "object_code": "red_portal",
+            "other_options": {
+                "portal_id": 3,
+                "portal_entry": false,
+                "strength": 20,
+                "distance": 200,
+                "angle":90,
+                "action": "let deal_with_slowtime=GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global \n if(self.real_time*deal_with_slowtime>1){let r=Math.random()\nlet color; \n if(r<0.33){color=\"red\"}else if(r>0.33 && r<0.66){color=\"green\"} else if(r>0.66){color=\"blue\"}  \nlet ball=GAME_LOGIC.game.createBall(2284*GAME_LOGIC.game.ball_size+500,2272*GAME_LOGIC.game.ball_size+Math.random()*600-200,color)\n ball.appendAnimation((self)=>{\nlet r=Math.random()*2-1\nself.move(self.x-100*self.dt*GAME_LOGIC.game.player.slow_time,self.y) \n if(self.real_time>30){self.destroy()} \n if (GAME_LOGIC.game.player.attraction == 0) {\n self.connected = false}\n if (self.connected) {\nGAME_LOGIC.game.player.anchor_ballx = self.x\nGAME_LOGIC.game.player.anchor_bally = self.y}  })\nGAME_LOGIC.game.animated_objects.push(ball)\n  \n self.real_time=0}"
+            }
+        }
+    },
+    "player_position": {
+        "x": 2272,
+        "y": 2272
+    },
+    "min_score_to_win": 20,
+    "time_limit": null,
+    "acceleration": 30,
+    "contact_radius_size": 500,
+    "max_speed": 450,
+    "zoom_value": 30,
+    "add_powers": false,
+    "map_edge_type": "deadly",
+    "edge_distance": 800,
+    "next_level": "",
+    "slow_time": "0.5",
+    "slow_time_duration": "1",
+    "size_power": "20",
+    "size_power_duration": "1",
+    "speed_power": "2",
+    "speed_power_duration": "1",
+    "tutorial": {},
+    "space_background": {
+        "p_size": 0.3,
+        "impact_force": 1,
+        "number_of_particles": 400,
+        "collisions":false
+    }
+}
