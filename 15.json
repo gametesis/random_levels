@@ -1,0 +1,411 @@
+{
+    "map": {
+        "2619:2631": {
+            "x": 2619,
+            "y": 2631,
+            "object_code": "black_ball",
+            "other_options": {
+                "action": "let deal_with_slowtime=GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global \n if(self.real_time*deal_with_slowtime>0.1){\nself.real_time=0\n GAME_LOGIC.game.player.speedy+=50 \n}"
+            }
+        },
+        "2620:2631": {
+            "x": 2620,
+            "y": 2631,
+            "object_code": "black_ball",
+            "other_options": {
+                "action": "if(GAME_LOGIC.game.level_vars.trigger0==undefined){\n GAME_LOGIC.game.level_vars.trigger1=0 \n let deal_with_slowtime=GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global \n GAME_LOGIC.game.level_vars.trigger0=true\n GAME_LOGIC.game.animated_objects[3].shape.children[5].style.opacity=\"0.7\"  \n GAME_LOGIC.game.animated_objects[3].shape.children[5].innerHTML=`<svg viewBox=\"0 0 200 200\" xmlns=\"http://www.w3.org/2000/svg\"><ellipse id=\"left-eye-en\" cx=\"60\" cy=\"80\" rx=\"20\" ry=\"30\" fill=\"white\"></ellipse><ellipse id=\"right-eye-en\" cx=\"140\" cy=\"80\" rx=\"20\" ry=\"30\" fill=\"white\"></ellipse><path d=\"M 50 140 L 60 160 L 70 140 L 80 160 L 90 140 L 100 160 L 110 140 L 120 160 L 130 140 L 140 160 L 150 140\" stroke=\"white\" stroke-width=\"5\" fill=\"transparent\"><animate attributeName=\"stroke-width\" values=\"5;15;5\" dur=\"${1 * (1 / deal_with_slowtime)}s\" repeatCount=\"indefinite\" /></path><animate id=\"blink-en-left\" href=\"#left-eye-en\" attributeName=\"ry\" from=\"30\" to=\"0\" dur=\"${0.2 * (1 / deal_with_slowtime)}s\" begin=\"0s;blink-en-right-open-final.end+${2 * (1 / deal_with_slowtime)}s\" fill=\"freeze\"></animate><animate id=\"blink-en-right\" href=\"#right-eye-en\" attributeName=\"ry\" from=\"30\" to=\"0\" dur=\"${0.2 * (1 / deal_with_slowtime)}s\" begin=\"0s;blink-en-right-open-final.end+${2 * (1 / deal_with_slowtime)}s\" fill=\"freeze\"></animate><animate id=\"blink-en-left-open\" href=\"#left-eye-en\" attributeName=\"ry\" from=\"0\" to=\"30\" dur=\"${0.2 * (1 / deal_with_slowtime)}s\" begin=\"blink-en-left.end+${0.1 * (1 / deal_with_slowtime)}s\" fill=\"freeze\"></animate><animate id=\"blink-en-right-open\" href=\"#right-eye-en\" attributeName=\"ry\" from=\"0\" to=\"30\" dur=\"${0.2 * (1 / deal_with_slowtime)}s\" begin=\"blink-en-right.end+${0.1 * (1 / deal_with_slowtime)}s\" fill=\"freeze\"></animate><animate id=\"blink-en-left-1\" href=\"#left-eye-en\" attributeName=\"ry\" from=\"30\" to=\"0\" dur=\"${0.15 * (1 / deal_with_slowtime)}s\" begin=\"blink-en-left-open.end+${2 * (1 / deal_with_slowtime)}s\" fill=\"freeze\"></animate><animate id=\"blink-en-right-1\" href=\"#right-eye-en\" attributeName=\"ry\" from=\"30\" to=\"0\" dur=\"${0.15 * (1 / deal_with_slowtime)}s\" begin=\"blink-en-right-open.end+${2 * (1 / deal_with_slowtime)}s\" fill=\"freeze\"></animate><animate id=\"blink-en-left-open-1\" href=\"#left-eye-en\" attributeName=\"ry\" from=\"0\" to=\"30\" dur=\"${0.15 * (1 / deal_with_slowtime)}s\" begin=\"blink-en-left-1.end+${0.05 * (1 / deal_with_slowtime)}s\" fill=\"freeze\"></animate><animate id=\"blink-en-right-open-1\" href=\"#right-eye-en\" attributeName=\"ry\" from=\"0\" to=\"30\" dur=\"${0.15 * (1 / deal_with_slowtime)}s\" begin=\"blink-en-right-1.end+${0.05 * (1 / deal_with_slowtime)}s\" fill=\"freeze\"></animate><animate id=\"blink-en-left-2\" href=\"#left-eye-en\" attributeName=\"ry\" from=\"30\" to=\"0\" dur=\"${0.15 * (1 / deal_with_slowtime)}s\" begin=\"blink-en-left-open-1.end+${0.2 * (1 / deal_with_slowtime)}s\" fill=\"freeze\"></animate><animate id=\"blink-en-right-2\" href=\"#right-eye-en\" attributeName=\"ry\" from=\"30\" to=\"0\" dur=\"${0.15 * (1 / deal_with_slowtime)}s\" begin=\"blink-en-right-open-1.end+${0.2 * (1 / deal_with_slowtime)}s\" fill=\"freeze\"></animate><animate id=\"blink-en-left-open-2\" href=\"#left-eye-en\" attributeName=\"ry\" from=\"0\" to=\"30\" dur=\"${0.15 * (1 / deal_with_slowtime)}s\" begin=\"blink-en-left-2.end+${0.05 * (1 / deal_with_slowtime)}s\" fill=\"freeze\"></animate><animate id=\"blink-en-right-open-2\" href=\"#right-eye-en\" attributeName=\"ry\" from=\"0\" to=\"30\" dur=\"${0.15 * (1 / deal_with_slowtime)}s\" begin=\"blink-en-right-2.end+${0.05 * (1 / deal_with_slowtime)}s\" fill=\"freeze\"></animate><animate id=\"blink-en-left-final\" href=\"#left-eye-en\" attributeName=\"ry\" from=\"30\" to=\"0\" dur=\"${0.2 * (1 / deal_with_slowtime)}s\" begin=\"blink-en-left-open-2.end+${2.5 * (1 / deal_with_slowtime)}s\" fill=\"freeze\"></animate><animate id=\"blink-en-right-final\" href=\"#right-eye-en\" attributeName=\"ry\" from=\"30\" to=\"0\" dur=\"${0.2 * (1 / deal_with_slowtime)}s\" begin=\"blink-en-right-open-2.end+${2.5 * (1 / deal_with_slowtime)}s\" fill=\"freeze\"></animate><animate id=\"blink-en-left-open-final\" href=\"#left-eye-en\" attributeName=\"ry\" from=\"0\" to=\"30\" dur=\"${0.2 * (1 / deal_with_slowtime)}s\" begin=\"blink-en-left-final.end+${0.1 * (1 / deal_with_slowtime)}s\" fill=\"freeze\"></animate><animate id=\"blink-en-right-open-final\" href=\"#right-eye-en\" attributeName=\"ry\" from=\"0\" to=\"30\" dur=\"${0.2 * (1 / deal_with_slowtime)}s\" begin=\"blink-en-right-final.end+${0.1 * (1 / deal_with_slowtime)}s\" fill=\"freeze\"></animate></svg>`}"
+            }
+        },
+        "2624:2631": {
+            "x": 2624,
+            "y": 2631,
+            "object_code": "red_enemy",
+            "other_options": {
+                "distance": 50,
+                "strength": 5,
+                "action": "let vec_info=GAME_LOGIC.game.calculateVectorInfoBetween2Objects(GAME_LOGIC.game.player,self)\n let deal_with_slowtime=GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global \n  if(GAME_LOGIC.game.level_vars.trigger1<3){\n  \nself.move(self.x+vec_info.dx*self.dt*deal_with_slowtime,self.y+vec_info.dy*self.dt*deal_with_slowtime) \n if (GAME_LOGIC.game.player.attraction == 0) { self.connected = false } \n  if (self.connected) { GAME_LOGIC.game.player.anchor_ballx = self.x \n GAME_LOGIC.game.player.anchor_bally = self.y }  \n } \n  "
+            }
+        },
+        "2634:2631": {
+            "x": 2634,
+            "y": 2631,
+            "object_code": "green_dash",
+            "other_options": {}
+        },
+        "2648:2631": {
+            "x": 2648,
+            "y": 2631,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2661:2628": {
+            "x": 2661,
+            "y": 2628,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2675:2630": {
+            "x": 2675,
+            "y": 2630,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2692:2626": {
+            "x": 2692,
+            "y": 2626,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2709:2631": {
+            "x": 2709,
+            "y": 2631,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2727:2631": {
+            "x": 2727,
+            "y": 2631,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2736:2619": {
+            "x": 2736,
+            "y": 2619,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2770:2626": {
+            "x": 2770,
+            "y": 2626,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2751:2629": {
+            "x": 2751,
+            "y": 2629,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2762:2618": {
+            "x": 2762,
+            "y": 2618,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2778:2632": {
+            "x": 2778,
+            "y": 2632,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2788:2620": {
+            "x": 2788,
+            "y": 2620,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2795:2631": {
+            "x": 2795,
+            "y": 2631,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2805:2620": {
+            "x": 2805,
+            "y": 2620,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2809:2632": {
+            "x": 2809,
+            "y": 2632,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2823:2620": {
+            "x": 2823,
+            "y": 2620,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2825:2629": {
+            "x": 2825,
+            "y": 2629,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "3500:2631": {
+            "x": 3500,
+            "y": 2631,
+            "object_code": "white_rforce",
+            "other_options": {
+                "distance": 100,
+                "strength": -10,
+                "action": "let deal_with_slowtime=GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global \n if(self.real_time*deal_with_slowtime>1){let r=Math.random()\nlet color; \n if(r<0.33){color=\"red\"}else if(r>0.33 && r<0.66){color=\"green\"} else if(r>0.66){color=\"blue\"}  \nlet ball=GAME_LOGIC.game.createBall(3500*GAME_LOGIC.game.ball_size,2631*GAME_LOGIC.game.ball_size+Math.random()*600-200,color)\n ball.appendAnimation((b)=>{\n b.move(b.x-300*b.dt*GAME_LOGIC.game.player.slow_time,b.y) \n if(b.real_time>60){b.destroy()} \n if (GAME_LOGIC.game.player.attraction == 0) {\n b.connected = false}\n if (b.connected) {\nGAME_LOGIC.game.player.anchor_ballx = b.x\nGAME_LOGIC.game.player.anchor_bally = b.y}  })\nGAME_LOGIC.game.animated_objects.push(ball)\n  \n self.real_time=0}"
+            }
+        },
+        "2843:2627": {
+            "x": 2843,
+            "y": 2627,
+            "object_code": "blue_ball",
+            "other_options": {}
+        },
+        "2863:2626": {
+            "x": 2863,
+            "y": 2626,
+            "object_code": "blue_ball",
+            "other_options": {}
+        },
+        "2885:2625": {
+            "x": 2885,
+            "y": 2625,
+            "object_code": "blue_ball",
+            "other_options": {}
+        },
+        "2907:2626": {
+            "x": 2907,
+            "y": 2626,
+            "object_code": "blue_ball",
+            "other_options": {}
+        },
+        "2930:2620": {
+            "x": 2930,
+            "y": 2620,
+            "object_code": "blue_ball",
+            "other_options": {}
+        },
+        "2957:2619": {
+            "x": 2957,
+            "y": 2619,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2983:2619": {
+            "x": 2983,
+            "y": 2619,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "3045:2618": {
+            "x": 3045,
+            "y": 2618,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "3071:2617": {
+            "x": 3071,
+            "y": 2617,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "3125:2619": {
+            "x": 3125,
+            "y": 2619,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "3153:2619": {
+            "x": 3153,
+            "y": 2619,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "3016:2619": {
+            "x": 3016,
+            "y": 2619,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "3448:2625": {
+            "x": 3448,
+            "y": 2625,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "3450:2625": {
+            "x": 3450,
+            "y": 2625,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "3452:2625": {
+            "x": 3452,
+            "y": 2625,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "3454:2625": {
+            "x": 3454,
+            "y": 2625,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "3448:2627": {
+            "x": 3448,
+            "y": 2627,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "3450:2627": {
+            "x": 3450,
+            "y": 2627,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "3452:2627": {
+            "x": 3452,
+            "y": 2627,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "3454:2627": {
+            "x": 3454,
+            "y": 2627,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "3448:2629": {
+            "x": 3448,
+            "y": 2629,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "3450:2629": {
+            "x": 3450,
+            "y": 2629,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "3452:2629": {
+            "x": 3452,
+            "y": 2629,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "3454:2629": {
+            "x": 3454,
+            "y": 2629,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "3446:2625": {
+            "x": 3446,
+            "y": 2625,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "3444:2625": {
+            "x": 3444,
+            "y": 2625,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "3446:2627": {
+            "x": 3446,
+            "y": 2627,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "3446:2629": {
+            "x": 3446,
+            "y": 2629,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "3444:2627": {
+            "x": 3444,
+            "y": 2627,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "3444:2629": {
+            "x": 3444,
+            "y": 2629,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "3454:2631": {
+            "x": 3454,
+            "y": 2631,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "3452:2631": {
+            "x": 3452,
+            "y": 2631,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "3450:2631": {
+            "x": 3450,
+            "y": 2631,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "3448:2631": {
+            "x": 3448,
+            "y": 2631,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "3446:2631": {
+            "x": 3446,
+            "y": 2631,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "3444:2631": {
+            "x": 3444,
+            "y": 2631,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "3102:2617": {
+            "x": 3102,
+            "y": 2617,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "3178:2618": {
+            "x": 3178,
+            "y": 2618,
+            "object_code": "green_ball",
+            "other_options": {}
+        }
+    },
+    "player_position": {
+        "x": 2631,
+        "y": 2631
+    },
+    "min_score_to_win": 15,
+    "time_limit": null,
+    "acceleration": 35,
+    "contact_radius_size": 500,
+    "max_speed": 500,
+    "zoom_value": 23,
+    "add_powers": false,
+    "map_edge_type": "deadly",
+    "edge_distance": 1000,
+    "next_level": "{{home}}/40.json",
+    "slow_time": "0.5",
+    "slow_time_duration": "1",
+    "size_power": "20",
+    "size_power_duration": "1",
+    "speed_power": "2",
+    "speed_power_duration": "1",
+    "tutorial": {
+        "n_deaths": {
+            "0": [
+                "Gravity...",
+                "Just 15 points to win..."
+            ],
+            "1": [
+                "Just 15 points!"
+            ]
+        }
+    },
+    "space_background": {
+        "collisions": false,
+        "number_of_particles": "500"
+    }
+}
