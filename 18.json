@@ -1,0 +1,251 @@
+{
+    "map": {
+        "2631:2611": {
+            "x": 2631,
+            "y": 2611,
+            "object_code": "green_ball",
+            "other_options": {
+                "movement": {
+                    "x": "self.x-2*Math.sin(1*(100*(GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time/(900*0.2))-0.3*900))",
+                    "y": "self.y-2*Math.cos(1*(100*(GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time/(900*0.2))-0.3*900))"
+                }
+            }
+        },
+        "2631:2651": {
+            "x": 2631,
+            "y": 2651,
+            "object_code": "green_ball",
+            "other_options": {
+                "movement": {
+                    "x": "self.x-2*Math.sin(1*(100*(GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time/(901*0.2))-0.3*901))",
+                    "y": "self.y-2*Math.cos(1*(100*(GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time/(901*0.2))-0.3*901))"
+                }
+            }
+        },
+        "2651:2631": {
+            "x": 2651,
+            "y": 2631,
+            "object_code": "red_enemy",
+            "other_options": {
+                "movement": {
+                    "x": "self.x-2*Math.sin(1*(100*(GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time/(902*0.2))-0.3*902))",
+                    "y": "self.y-2*Math.cos(1*(100*(GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time/(902*0.2))-0.3*902))"
+                }
+            }
+        },
+        "2611:2631": {
+            "x": 2611,
+            "y": 2631,
+            "object_code": "green_ball",
+            "other_options": {
+                "movement": {
+                    "x": "self.x-2*Math.sin(1*(100*(GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time/(903*0.2))-0.3*903))",
+                    "y": "self.y-2*Math.cos(1*(100*(GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time/(903*0.2))-0.3*903))"
+                }
+            }
+        },
+        "2621:2621": {
+            "x": 2621,
+            "y": 2621,
+            "object_code": "green_ball",
+            "other_options": {
+                "movement": {
+                    "x": "self.x-2*Math.sin(1*(100*(GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time/(904*0.2))-0.3*904))",
+                    "y": "self.y-2*Math.cos(1*(100*(GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time/(904*0.2))-0.3*904))"
+                }
+            }
+        },
+        "2641:2641": {
+            "x": 2641,
+            "y": 2641,
+            "object_code": "green_ball",
+            "other_options": {
+                "movement": {
+                    "x": "self.x-2*Math.sin(1*(100*(GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time/(905*0.2))-0.3*905))",
+                    "y": "self.y-2*Math.cos(1*(100*(GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time/(905*0.2))-0.3*905))"
+                }
+            }
+        },
+        "2641:2621": {
+            "x": 2641,
+            "y": 2621,
+            "object_code": "green_ball",
+            "other_options": {
+                "movement": {
+                    "x": "self.x-2*Math.sin(1*(100*(GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time/(906*0.2))-0.3*906))",
+                    "y": "self.y-2*Math.cos(1*(100*(GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time/(906*0.2))-0.3*906))"
+                }
+            }
+        },
+        "2621:2641": {
+            "x": 2621,
+            "y": 2641,
+            "object_code": "red_enemy",
+            "other_options": {
+                "movement": {
+                    "x": "self.x-2*Math.sin(1*(100*(GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time/(907*0.2))-0.3*907))",
+                    "y": "self.y-2*Math.cos(1*(100*(GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time/(907*0.2))-0.3*907))"
+                }
+            }
+        },
+        "2631:2621": {
+            "x": 2631,
+            "y": 2621,
+            "object_code": "green_ball",
+            "other_options": {
+                "movement": {
+                    "x": "self.x-2*Math.sin(1*(100*(GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time/(908*0.2))-0.3*908))",
+                    "y": "self.y-2*Math.cos(1*(100*(GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time/(908*0.2))-0.3*908))"
+                }
+            }
+        },
+        "2631:2641": {
+            "x": 2631,
+            "y": 2641,
+            "object_code": "green_ball",
+            "other_options": {
+                "movement": {
+                    "x": "self.x-2*Math.sin(1*(100*(GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time/(909*0.2))-0.3*909))",
+                    "y": "self.y-2*Math.cos(1*(100*(GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time/(909*0.2))-0.3*909))"
+                }
+            }
+        },
+        "2626:2616": {
+            "x": 2626,
+            "y": 2616,
+            "object_code": "green_ball",
+            "other_options": {
+                "movement": {
+                    "x": "self.x-2*Math.sin(1*(100*(GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time/(910*0.2))-0.3*910))",
+                    "y": "self.y-2*Math.cos(1*(100*(GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time/(910*0.2))-0.3*910))"
+                }
+            }
+        },
+        "2636:2646": {
+            "x": 2636,
+            "y": 2646,
+            "object_code": "green_ball",
+            "other_options": {
+                "movement": {
+                    "x": "self.x-2*Math.sin(1*(100*(GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time/(911*0.2))-0.3*911))",
+                    "y": "self.y-2*Math.cos(1*(100*(GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time/(911*0.2))-0.3*911))"
+                }
+            }
+        },
+        "2646:2626": {
+            "x": 2646,
+            "y": 2626,
+            "object_code": "red_enemy",
+            "other_options": {
+                "movement": {
+                    "x": "self.x-2*Math.sin(1*(100*(GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time/(912*0.2))-0.3*912))",
+                    "y": "self.y-2*Math.cos(1*(100*(GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time/(912*0.2))-0.3*912))"
+                }
+            }
+        },
+        "2616:2636": {
+            "x": 2616,
+            "y": 2636,
+            "object_code": "green_ball",
+            "other_options": {
+                "movement": {
+                    "x": "self.x-2*Math.sin(1*(100*(GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time/(913*0.2))-0.3*913))",
+                    "y": "self.y-2*Math.cos(1*(100*(GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time/(913*0.2))-0.3*913))"
+                }
+            }
+        },
+        "2626:2626": {
+            "x": 2626,
+            "y": 2626,
+            "object_code": "green_ball",
+            "other_options": {
+                "movement": {
+                    "x": "self.x-2*Math.sin(1*(100*(GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time/(914*0.2))-0.3*914))",
+                    "y": "self.y-2*Math.cos(1*(100*(GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time/(914*0.2))-0.3*914))"
+                }
+            }
+        },
+        "2636:2636": {
+            "x": 2636,
+            "y": 2636,
+            "object_code": "green_ball",
+            "other_options": {
+                "movement": {
+                    "x": "self.x-2*Math.sin(1*(100*(GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time/(915*0.2))-0.3*915))",
+                    "y": "self.y-2*Math.cos(1*(100*(GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time/(915*0.2))-0.3*915))"
+                }
+            }
+        },
+        "2646:2616": {
+            "x": 2646,
+            "y": 2616,
+            "object_code": "green_ball",
+            "other_options": {
+                "movement": {
+                    "x": "self.x-2*Math.sin(1*(100*(GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time/(916*0.2))-0.3*916))",
+                    "y": "self.y-2*Math.cos(1*(100*(GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time/(916*0.2))-0.3*916))"
+                }
+            }
+        },
+        "2616:2646": {
+            "x": 2616,
+            "y": 2646,
+            "object_code": "green_ball",
+            "other_options": {
+                "movement": {
+                    "x": "self.x-2*Math.sin(1*(100*(GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time/(917*0.2))-0.3*917))",
+                    "y": "self.y-2*Math.cos(1*(100*(GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time/(917*0.2))-0.3*917))"
+                }
+            }
+        },
+        "2626:2631": {
+            "x": 2626,
+            "y": 2631,
+            "object_code": "red_enemy",
+            "other_options": {
+                "movement": {
+                    "x": "self.x-2*Math.sin(1*(100*(GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time/(918*0.2))-0.3*918))",
+                    "y": "self.y-2*Math.cos(1*(100*(GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time/(918*0.2))-0.3*918))"
+                }
+            }
+        },
+        "2636:2631": {
+            "x": 2636,
+            "y": 2631,
+            "object_code": "green_ball",
+            "other_options": {
+                "movement": {
+                    "x": "self.x-2*Math.sin(1*(100*(GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time/(919*0.2))-0.3*919))",
+                    "y": "self.y-2*Math.cos(1*(100*(GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global*self.real_time/(919*0.2))-0.3*919))"
+                }
+            }
+        }
+    },
+    "player_position": {
+        "x": 2631,
+        "y": 2631
+    },
+    "min_score_to_win": 15,
+    "time_limit": null,
+    "acceleration": 14,
+    "contact_radius_size": 1000,
+    "max_speed": 250,
+    "zoom_value": 23,
+    "add_powers": false,
+    "map_edge_type": "deadly",
+    "edge_distance": 600,
+    "next_level": "",
+    "slow_time": "0.5",
+    "slow_time_duration": "1",
+    "size_power": "20",
+    "size_power_duration": "1",
+    "speed_power": "2",
+    "speed_power_duration": "1",
+    "tutorial": {},
+    "space_background": {
+        "p_size": 0.3,
+        "impact_force": 1,
+        "number_of_particles": 100,
+        "collisions": false
+    }
+}
