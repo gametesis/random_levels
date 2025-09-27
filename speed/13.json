@@ -371,6 +371,6 @@
         }
     },
     "space_background": {
-        "collisions": true
+        
     }
 }
