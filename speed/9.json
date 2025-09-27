@@ -1,0 +1,152 @@
+{
+    "map": {
+        "2780:2776": {
+            "x": 2780,
+            "y": 2776,
+            "object_code": "green_dash",
+            "other_options": {}
+        },
+        "2786:2769": {
+            "x": 2786,
+            "y": 2769,
+            "object_code": "red_X",
+            "other_options": {}
+        },
+        "2791:2769": {
+            "x": 2791,
+            "y": 2769,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2791:2767": {
+            "x": 2791,
+            "y": 2767,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2790:2765": {
+            "x": 2790,
+            "y": 2765,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2781:2769": {
+            "x": 2781,
+            "y": 2769,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2784:2764": {
+            "x": 2784,
+            "y": 2764,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2787:2764": {
+            "x": 2787,
+            "y": 2764,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2781:2767": {
+            "x": 2781,
+            "y": 2767,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2782:2765": {
+            "x": 2782,
+            "y": 2765,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2771:2782": {
+            "x": 2771,
+            "y": 2782,
+            "object_code": "green_X",
+            "other_options": {}
+        },
+        "2771:2787": {
+            "x": 2771,
+            "y": 2787,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2768:2786": {
+            "x": 2768,
+            "y": 2786,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2766:2783": {
+            "x": 2766,
+            "y": 2783,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2766:2780": {
+            "x": 2766,
+            "y": 2780,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2789:2786": {
+            "x": 2789,
+            "y": 2786,
+            "object_code": "blue_X",
+            "other_options": {}
+        },
+        "2794:2786": {
+            "x": 2794,
+            "y": 2786,
+            "object_code": "blue_ball",
+            "other_options": {}
+        },
+        "2792:2789": {
+            "x": 2792,
+            "y": 2789,
+            "object_code": "blue_ball",
+            "other_options": {}
+        },
+        "2793:2788": {
+            "x": 2793,
+            "y": 2788,
+            "object_code": "blue_ball",
+            "other_options": {}
+        },
+        "2790:2790": {
+            "x": 2790,
+            "y": 2790,
+            "object_code": "blue_ball",
+            "other_options": {}
+        },
+        "2766:2781": {
+            "x": 2766,
+            "y": 2781,
+            "object_code": "green_ball",
+            "other_options": {}
+        }
+    },
+    "player_position": {
+        "x": 2777,
+        "y": 2777
+    },
+    "min_score_to_win": 17,
+    "time_limit": 7,
+    "acceleration": 33,
+    "contact_radius_size": 300,
+    "max_speed": 450,
+    "zoom_value": 22,
+    "add_powers": false,
+    "map_edge_type": "deadly",
+    "edge_distance": 300,
+    "next_level": "",
+    "slow_time": "0.5",
+    "slow_time_duration": "1",
+    "size_power": "20",
+    "size_power_duration": "1",
+    "speed_power": "2",
+    "speed_power_duration": "1",
+    "tutorial": {},
+    "space_background": {}
+}
