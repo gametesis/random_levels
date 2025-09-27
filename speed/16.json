@@ -1,0 +1,2119 @@
+{
+    "map": {
+        "2773:2777": {
+            "x": 2773,
+            "y": 2777,
+            "object_code": "green_dash",
+            "other_options": {}
+        },
+        "2766:2774": {
+            "x": 2766,
+            "y": 2774,
+            "object_code": "red_dash",
+            "other_options": {
+                "angle": -90
+            }
+        },
+        "2769:2767": {
+            "x": 2769,
+            "y": 2767,
+            "object_code": "blue_dash",
+            "other_options": {
+                "angle": 0
+            }
+        },
+        "2766:2764": {
+            "x": 2766,
+            "y": 2764,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2768:2764": {
+            "x": 2768,
+            "y": 2764,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2770:2764": {
+            "x": 2770,
+            "y": 2764,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2772:2764": {
+            "x": 2772,
+            "y": 2764,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2774:2764": {
+            "x": 2774,
+            "y": 2764,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2776:2764": {
+            "x": 2776,
+            "y": 2764,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2778:2764": {
+            "x": 2778,
+            "y": 2764,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2780:2764": {
+            "x": 2780,
+            "y": 2764,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2782:2764": {
+            "x": 2782,
+            "y": 2764,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2764:2764": {
+            "x": 2764,
+            "y": 2764,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2762:2764": {
+            "x": 2762,
+            "y": 2764,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2762:2766": {
+            "x": 2762,
+            "y": 2766,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2762:2768": {
+            "x": 2762,
+            "y": 2768,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2762:2770": {
+            "x": 2762,
+            "y": 2770,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2762:2772": {
+            "x": 2762,
+            "y": 2772,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2762:2774": {
+            "x": 2762,
+            "y": 2774,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2762:2776": {
+            "x": 2762,
+            "y": 2776,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2762:2778": {
+            "x": 2762,
+            "y": 2778,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2762:2780": {
+            "x": 2762,
+            "y": 2780,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2780:2761": {
+            "x": 2780,
+            "y": 2761,
+            "object_code": "blue_ball",
+            "other_options": {
+                "angle": -175,
+                "action": "if(self.t1==undefined){\n self.t1=true \n self.shape.style.boxShadow=`0px 0px 50px 10px ${GAME_LOGIC.game.blue_color}` \n}"
+            }
+        },
+        "2780:2760": {
+            "x": 2780,
+            "y": 2760,
+            "object_code": "blue_ball",
+            "other_options": {
+                "angle": -172,
+                "action": "if(self.t1==undefined){\n self.t1=true \n self.shape.style.boxShadow=`0px 0px 50px 10px ${GAME_LOGIC.game.blue_color}` \n}"
+            }
+        },
+        "2782:2755": {
+            "x": 2782,
+            "y": 2755,
+            "object_code": "purple_enemy",
+            "other_options": {
+                "action": "let deal_with_slowtime=GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global \n if((GAME_LOGIC.game.world_map[\"2780: 2761\"]==undefined || GAME_LOGIC.game.world_map[\"2780: 2760\"]==undefined) && self.t1==undefined){\n self.t1=true \n GAME_LOGIC.game.player.speed_power_interval=0.1*(1/deal_with_slowtime) \n GAME_LOGIC.game.player.speed_power=GAME_LOGIC.game.speed_power_global \n}"
+            }
+        },
+        "2780:2755": {
+            "x": 2780,
+            "y": 2755,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2778:2755": {
+            "x": 2778,
+            "y": 2755,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2776:2755": {
+            "x": 2776,
+            "y": 2755,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2774:2755": {
+            "x": 2774,
+            "y": 2755,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2772:2755": {
+            "x": 2772,
+            "y": 2755,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2770:2755": {
+            "x": 2770,
+            "y": 2755,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2768:2755": {
+            "x": 2768,
+            "y": 2755,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2766:2755": {
+            "x": 2766,
+            "y": 2755,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2764:2755": {
+            "x": 2764,
+            "y": 2755,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2770:2772": {
+            "x": 2770,
+            "y": 2772,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2772:2772": {
+            "x": 2772,
+            "y": 2772,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2774:2772": {
+            "x": 2774,
+            "y": 2772,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2776:2772": {
+            "x": 2776,
+            "y": 2772,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2778:2772": {
+            "x": 2778,
+            "y": 2772,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2780:2772": {
+            "x": 2780,
+            "y": 2772,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2782:2772": {
+            "x": 2782,
+            "y": 2772,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2784:2772": {
+            "x": 2784,
+            "y": 2772,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2786:2772": {
+            "x": 2786,
+            "y": 2772,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2788:2772": {
+            "x": 2788,
+            "y": 2772,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2790:2772": {
+            "x": 2790,
+            "y": 2772,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2790:2770": {
+            "x": 2790,
+            "y": 2770,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2790:2768": {
+            "x": 2790,
+            "y": 2768,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2790:2766": {
+            "x": 2790,
+            "y": 2766,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2790:2764": {
+            "x": 2790,
+            "y": 2764,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2790:2762": {
+            "x": 2790,
+            "y": 2762,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2790:2760": {
+            "x": 2790,
+            "y": 2760,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2790:2758": {
+            "x": 2790,
+            "y": 2758,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2790:2756": {
+            "x": 2790,
+            "y": 2756,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2784:2755": {
+            "x": 2784,
+            "y": 2755,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2786:2755": {
+            "x": 2786,
+            "y": 2755,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2788:2755": {
+            "x": 2788,
+            "y": 2755,
+            "object_code": "purple_enemy",
+            "other_options": {
+                "action": "let deal_with_slowtime=GAME_LOGIC.game.player.slow_time*GAME_LOGIC.game.game_speed_global \n if((GAME_LOGIC.game.world_map[\"2766: 2752\"]==undefined || GAME_LOGIC.game.world_map[\"2766: 2751\"]==undefined) && self.t1==undefined){\n self.t1=true \n GAME_LOGIC.game.player.speed_power_interval=0.1*(1/deal_with_slowtime) \n GAME_LOGIC.game.player.speed_power=GAME_LOGIC.game.speed_power_global \n}"
+            }
+        },
+        "2790:2754": {
+            "x": 2790,
+            "y": 2754,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2790:2752": {
+            "x": 2790,
+            "y": 2752,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2792:2755": {
+            "x": 2792,
+            "y": 2755,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2794:2755": {
+            "x": 2794,
+            "y": 2755,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2796:2755": {
+            "x": 2796,
+            "y": 2755,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2798:2755": {
+            "x": 2798,
+            "y": 2755,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2800:2755": {
+            "x": 2800,
+            "y": 2755,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2802:2755": {
+            "x": 2802,
+            "y": 2755,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2804:2755": {
+            "x": 2804,
+            "y": 2755,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2806:2755": {
+            "x": 2806,
+            "y": 2755,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2808:2755": {
+            "x": 2808,
+            "y": 2755,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2764:2745": {
+            "x": 2764,
+            "y": 2745,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2766:2745": {
+            "x": 2766,
+            "y": 2745,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2768:2745": {
+            "x": 2768,
+            "y": 2745,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2770:2745": {
+            "x": 2770,
+            "y": 2745,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2772:2745": {
+            "x": 2772,
+            "y": 2745,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2774:2745": {
+            "x": 2774,
+            "y": 2745,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2776:2745": {
+            "x": 2776,
+            "y": 2745,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2778:2745": {
+            "x": 2778,
+            "y": 2745,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2780:2745": {
+            "x": 2780,
+            "y": 2745,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2782:2745": {
+            "x": 2782,
+            "y": 2745,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2784:2745": {
+            "x": 2784,
+            "y": 2745,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2786:2745": {
+            "x": 2786,
+            "y": 2745,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2788:2745": {
+            "x": 2788,
+            "y": 2745,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2790:2745": {
+            "x": 2790,
+            "y": 2745,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2792:2745": {
+            "x": 2792,
+            "y": 2745,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2794:2745": {
+            "x": 2794,
+            "y": 2745,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2796:2745": {
+            "x": 2796,
+            "y": 2745,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2798:2745": {
+            "x": 2798,
+            "y": 2745,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2800:2745": {
+            "x": 2800,
+            "y": 2745,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2802:2745": {
+            "x": 2802,
+            "y": 2745,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2804:2745": {
+            "x": 2804,
+            "y": 2745,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2806:2745": {
+            "x": 2806,
+            "y": 2745,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2808:2745": {
+            "x": 2808,
+            "y": 2745,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2810:2746": {
+            "x": 2810,
+            "y": 2746,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2810:2748": {
+            "x": 2810,
+            "y": 2748,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2810:2755": {
+            "x": 2810,
+            "y": 2755,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2812:2755": {
+            "x": 2812,
+            "y": 2755,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2814:2755": {
+            "x": 2814,
+            "y": 2755,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2816:2755": {
+            "x": 2816,
+            "y": 2755,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2818:2755": {
+            "x": 2818,
+            "y": 2755,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2820:2755": {
+            "x": 2820,
+            "y": 2755,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2822:2755": {
+            "x": 2822,
+            "y": 2755,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2824:2755": {
+            "x": 2824,
+            "y": 2755,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2812:2745": {
+            "x": 2812,
+            "y": 2745,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2814:2745": {
+            "x": 2814,
+            "y": 2745,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2816:2745": {
+            "x": 2816,
+            "y": 2745,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2818:2745": {
+            "x": 2818,
+            "y": 2745,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2820:2745": {
+            "x": 2820,
+            "y": 2745,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2822:2745": {
+            "x": 2822,
+            "y": 2745,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2824:2745": {
+            "x": 2824,
+            "y": 2745,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2826:2755": {
+            "x": 2826,
+            "y": 2755,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2828:2755": {
+            "x": 2828,
+            "y": 2755,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2830:2755": {
+            "x": 2830,
+            "y": 2755,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2832:2755": {
+            "x": 2832,
+            "y": 2755,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2834:2755": {
+            "x": 2834,
+            "y": 2755,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2829:2748": {
+            "x": 2829,
+            "y": 2748,
+            "object_code": "green_dash",
+            "other_options": {
+                "angle": -90,
+                "go_to_position": true
+            }
+        },
+        "2824:2743": {
+            "x": 2824,
+            "y": 2743,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2824:2741": {
+            "x": 2824,
+            "y": 2741,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2824:2739": {
+            "x": 2824,
+            "y": 2739,
+            "object_code": "green_X",
+            "other_options": {}
+        },
+        "2824:2738": {
+            "x": 2824,
+            "y": 2738,
+            "object_code": "green_X",
+            "other_options": {}
+        },
+        "2824:2737": {
+            "x": 2824,
+            "y": 2737,
+            "object_code": "green_X",
+            "other_options": {}
+        },
+        "2760:2764": {
+            "x": 2760,
+            "y": 2764,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2758:2764": {
+            "x": 2758,
+            "y": 2764,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2756:2764": {
+            "x": 2756,
+            "y": 2764,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2754:2764": {
+            "x": 2754,
+            "y": 2764,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2754:2762": {
+            "x": 2754,
+            "y": 2762,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2754:2760": {
+            "x": 2754,
+            "y": 2760,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2754:2758": {
+            "x": 2754,
+            "y": 2758,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2754:2756": {
+            "x": 2754,
+            "y": 2756,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2754:2754": {
+            "x": 2754,
+            "y": 2754,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2754:2752": {
+            "x": 2754,
+            "y": 2752,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2754:2750": {
+            "x": 2754,
+            "y": 2750,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2754:2748": {
+            "x": 2754,
+            "y": 2748,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2754:2746": {
+            "x": 2754,
+            "y": 2746,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2762:2745": {
+            "x": 2762,
+            "y": 2745,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2760:2745": {
+            "x": 2760,
+            "y": 2745,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2758:2745": {
+            "x": 2758,
+            "y": 2745,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2756:2745": {
+            "x": 2756,
+            "y": 2745,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2836:2755": {
+            "x": 2836,
+            "y": 2755,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2836:2753": {
+            "x": 2836,
+            "y": 2753,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2836:2751": {
+            "x": 2836,
+            "y": 2751,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2836:2749": {
+            "x": 2836,
+            "y": 2749,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2836:2747": {
+            "x": 2836,
+            "y": 2747,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2836:2745": {
+            "x": 2836,
+            "y": 2745,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2836:2743": {
+            "x": 2836,
+            "y": 2743,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2836:2741": {
+            "x": 2836,
+            "y": 2741,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2836:2739": {
+            "x": 2836,
+            "y": 2739,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2836:2737": {
+            "x": 2836,
+            "y": 2737,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2836:2735": {
+            "x": 2836,
+            "y": 2735,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2836:2733": {
+            "x": 2836,
+            "y": 2733,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2836:2731": {
+            "x": 2836,
+            "y": 2731,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2836:2729": {
+            "x": 2836,
+            "y": 2729,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2836:2727": {
+            "x": 2836,
+            "y": 2727,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2834:2727": {
+            "x": 2834,
+            "y": 2727,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2832:2727": {
+            "x": 2832,
+            "y": 2727,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2830:2727": {
+            "x": 2830,
+            "y": 2727,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2828:2727": {
+            "x": 2828,
+            "y": 2727,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2826:2727": {
+            "x": 2826,
+            "y": 2727,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2824:2727": {
+            "x": 2824,
+            "y": 2727,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2822:2727": {
+            "x": 2822,
+            "y": 2727,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2820:2727": {
+            "x": 2820,
+            "y": 2727,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2818:2727": {
+            "x": 2818,
+            "y": 2727,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2816:2727": {
+            "x": 2816,
+            "y": 2727,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2782:2774": {
+            "x": 2782,
+            "y": 2774,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2782:2776": {
+            "x": 2782,
+            "y": 2776,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2782:2778": {
+            "x": 2782,
+            "y": 2778,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2782:2780": {
+            "x": 2782,
+            "y": 2780,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2762:2782": {
+            "x": 2762,
+            "y": 2782,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2762:2784": {
+            "x": 2762,
+            "y": 2784,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2764:2784": {
+            "x": 2764,
+            "y": 2784,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2766:2784": {
+            "x": 2766,
+            "y": 2784,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2768:2784": {
+            "x": 2768,
+            "y": 2784,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2770:2784": {
+            "x": 2770,
+            "y": 2784,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2772:2784": {
+            "x": 2772,
+            "y": 2784,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2774:2784": {
+            "x": 2774,
+            "y": 2784,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2776:2784": {
+            "x": 2776,
+            "y": 2784,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2778:2784": {
+            "x": 2778,
+            "y": 2784,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2780:2784": {
+            "x": 2780,
+            "y": 2784,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2782:2784": {
+            "x": 2782,
+            "y": 2784,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2782:2782": {
+            "x": 2782,
+            "y": 2782,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2814:2727": {
+            "x": 2814,
+            "y": 2727,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2812:2727": {
+            "x": 2812,
+            "y": 2727,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2810:2727": {
+            "x": 2810,
+            "y": 2727,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2808:2734": {
+            "x": 2808,
+            "y": 2734,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2808:2732": {
+            "x": 2808,
+            "y": 2732,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2808:2730": {
+            "x": 2808,
+            "y": 2730,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2808:2728": {
+            "x": 2808,
+            "y": 2728,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2806:2727": {
+            "x": 2806,
+            "y": 2727,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2804:2727": {
+            "x": 2804,
+            "y": 2727,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2802:2727": {
+            "x": 2802,
+            "y": 2727,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2800:2727": {
+            "x": 2800,
+            "y": 2727,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2798:2727": {
+            "x": 2798,
+            "y": 2727,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2796:2727": {
+            "x": 2796,
+            "y": 2727,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2794:2727": {
+            "x": 2794,
+            "y": 2727,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2792:2727": {
+            "x": 2792,
+            "y": 2727,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2790:2727": {
+            "x": 2790,
+            "y": 2727,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2788:2727": {
+            "x": 2788,
+            "y": 2727,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2786:2727": {
+            "x": 2786,
+            "y": 2727,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2784:2727": {
+            "x": 2784,
+            "y": 2727,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2780:2727": {
+            "x": 2780,
+            "y": 2727,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2778:2727": {
+            "x": 2778,
+            "y": 2727,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2776:2727": {
+            "x": 2776,
+            "y": 2727,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2774:2727": {
+            "x": 2774,
+            "y": 2727,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2772:2727": {
+            "x": 2772,
+            "y": 2727,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2794:2735": {
+            "x": 2794,
+            "y": 2735,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2796:2735": {
+            "x": 2796,
+            "y": 2735,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2798:2735": {
+            "x": 2798,
+            "y": 2735,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2790:2739": {
+            "x": 2790,
+            "y": 2739,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2790:2741": {
+            "x": 2790,
+            "y": 2741,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2790:2743": {
+            "x": 2790,
+            "y": 2743,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2800:2735": {
+            "x": 2800,
+            "y": 2735,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2800:2737": {
+            "x": 2800,
+            "y": 2737,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2800:2739": {
+            "x": 2800,
+            "y": 2739,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2800:2741": {
+            "x": 2800,
+            "y": 2741,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2800:2743": {
+            "x": 2800,
+            "y": 2743,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2782:2728": {
+            "x": 2782,
+            "y": 2728,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2762:2743": {
+            "x": 2762,
+            "y": 2743,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2762:2741": {
+            "x": 2762,
+            "y": 2741,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2762:2739": {
+            "x": 2762,
+            "y": 2739,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2762:2737": {
+            "x": 2762,
+            "y": 2737,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2762:2735": {
+            "x": 2762,
+            "y": 2735,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2762:2733": {
+            "x": 2762,
+            "y": 2733,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2762:2731": {
+            "x": 2762,
+            "y": 2731,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2762:2729": {
+            "x": 2762,
+            "y": 2729,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2762:2727": {
+            "x": 2762,
+            "y": 2727,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2762:2725": {
+            "x": 2762,
+            "y": 2725,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2762:2723": {
+            "x": 2762,
+            "y": 2723,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2762:2721": {
+            "x": 2762,
+            "y": 2721,
+            "object_code": "purple_enemy",
+            "other_options": {}
+        },
+        "2762:2719": {
+            "x": 2762,
+            "y": 2719,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2764:2719": {
+            "x": 2764,
+            "y": 2719,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2766:2719": {
+            "x": 2766,
+            "y": 2719,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2768:2719": {
+            "x": 2768,
+            "y": 2719,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2770:2719": {
+            "x": 2770,
+            "y": 2719,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2772:2719": {
+            "x": 2772,
+            "y": 2719,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2774:2719": {
+            "x": 2774,
+            "y": 2719,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2776:2719": {
+            "x": 2776,
+            "y": 2719,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2778:2719": {
+            "x": 2778,
+            "y": 2719,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2780:2719": {
+            "x": 2780,
+            "y": 2719,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2782:2719": {
+            "x": 2782,
+            "y": 2719,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2784:2719": {
+            "x": 2784,
+            "y": 2719,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2786:2719": {
+            "x": 2786,
+            "y": 2719,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2788:2719": {
+            "x": 2788,
+            "y": 2719,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2790:2719": {
+            "x": 2790,
+            "y": 2719,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2792:2719": {
+            "x": 2792,
+            "y": 2719,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2794:2719": {
+            "x": 2794,
+            "y": 2719,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2796:2719": {
+            "x": 2796,
+            "y": 2719,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2798:2719": {
+            "x": 2798,
+            "y": 2719,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2800:2719": {
+            "x": 2800,
+            "y": 2719,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2802:2719": {
+            "x": 2802,
+            "y": 2719,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2804:2719": {
+            "x": 2804,
+            "y": 2719,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2806:2719": {
+            "x": 2806,
+            "y": 2719,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2808:2719": {
+            "x": 2808,
+            "y": 2719,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2808:2721": {
+            "x": 2808,
+            "y": 2721,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2808:2723": {
+            "x": 2808,
+            "y": 2723,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2808:2725": {
+            "x": 2808,
+            "y": 2725,
+            "object_code": "blue_enemy",
+            "other_options": {
+                "action": "if(GAME_LOGIC.game.player.y<=2725*GAME_LOGIC.game.ball_size && GAME_LOGIC.game.player.x>2774*GAME_LOGIC.game.ball_size){\n GAME_LOGIC.game.player.size_power_interval=1   \n}"
+            }
+        },
+        "2774:2722": {
+            "x": 2774,
+            "y": 2722,
+            "object_code": "red_ball",
+            "other_options": {
+                "angle": 0
+            }
+        },
+        "2774:2723": {
+            "x": 2774,
+            "y": 2723,
+            "object_code": "red_ball",
+            "other_options": {
+                "angle": 0
+            }
+        },
+        "2774:2724": {
+            "x": 2774,
+            "y": 2724,
+            "object_code": "red_ball",
+            "other_options": {
+                "angle": 0
+            }
+        },
+        "2774:2725": {
+            "x": 2774,
+            "y": 2725,
+            "object_code": "red_ball",
+            "other_options": {
+                "angle": 0
+            }
+        },
+        "2778:2722": {
+            "x": 2778,
+            "y": 2722,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2778:2723": {
+            "x": 2778,
+            "y": 2723,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2778:2724": {
+            "x": 2778,
+            "y": 2724,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2778:2725": {
+            "x": 2778,
+            "y": 2725,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2779:2725": {
+            "x": 2779,
+            "y": 2725,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2780:2725": {
+            "x": 2780,
+            "y": 2725,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2781:2725": {
+            "x": 2781,
+            "y": 2725,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2782:2725": {
+            "x": 2782,
+            "y": 2725,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2783:2725": {
+            "x": 2783,
+            "y": 2725,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2784:2725": {
+            "x": 2784,
+            "y": 2725,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2785:2725": {
+            "x": 2785,
+            "y": 2725,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2786:2725": {
+            "x": 2786,
+            "y": 2725,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2787:2725": {
+            "x": 2787,
+            "y": 2725,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2788:2725": {
+            "x": 2788,
+            "y": 2725,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2789:2725": {
+            "x": 2789,
+            "y": 2725,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2790:2725": {
+            "x": 2790,
+            "y": 2725,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2791:2725": {
+            "x": 2791,
+            "y": 2725,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2792:2725": {
+            "x": 2792,
+            "y": 2725,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2793:2725": {
+            "x": 2793,
+            "y": 2725,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2794:2725": {
+            "x": 2794,
+            "y": 2725,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2795:2725": {
+            "x": 2795,
+            "y": 2725,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2796:2725": {
+            "x": 2796,
+            "y": 2725,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2797:2725": {
+            "x": 2797,
+            "y": 2725,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2797:2724": {
+            "x": 2797,
+            "y": 2724,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2797:2723": {
+            "x": 2797,
+            "y": 2723,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2797:2722": {
+            "x": 2797,
+            "y": 2722,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2796:2722": {
+            "x": 2796,
+            "y": 2722,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2795:2722": {
+            "x": 2795,
+            "y": 2722,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2794:2722": {
+            "x": 2794,
+            "y": 2722,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2793:2722": {
+            "x": 2793,
+            "y": 2722,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2792:2722": {
+            "x": 2792,
+            "y": 2722,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2791:2722": {
+            "x": 2791,
+            "y": 2722,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2790:2722": {
+            "x": 2790,
+            "y": 2722,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2789:2722": {
+            "x": 2789,
+            "y": 2722,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2788:2722": {
+            "x": 2788,
+            "y": 2722,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2787:2722": {
+            "x": 2787,
+            "y": 2722,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2786:2722": {
+            "x": 2786,
+            "y": 2722,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2785:2722": {
+            "x": 2785,
+            "y": 2722,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2784:2722": {
+            "x": 2784,
+            "y": 2722,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2783:2722": {
+            "x": 2783,
+            "y": 2722,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2782:2722": {
+            "x": 2782,
+            "y": 2722,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2781:2722": {
+            "x": 2781,
+            "y": 2722,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2780:2722": {
+            "x": 2780,
+            "y": 2722,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2779:2722": {
+            "x": 2779,
+            "y": 2722,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2779:2723": {
+            "x": 2779,
+            "y": 2723,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2779:2724": {
+            "x": 2779,
+            "y": 2724,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2780:2724": {
+            "x": 2780,
+            "y": 2724,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2781:2724": {
+            "x": 2781,
+            "y": 2724,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2781:2723": {
+            "x": 2781,
+            "y": 2723,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2782:2723": {
+            "x": 2782,
+            "y": 2723,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2783:2723": {
+            "x": 2783,
+            "y": 2723,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2784:2723": {
+            "x": 2784,
+            "y": 2723,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2785:2723": {
+            "x": 2785,
+            "y": 2723,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2786:2723": {
+            "x": 2786,
+            "y": 2723,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2787:2723": {
+            "x": 2787,
+            "y": 2723,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2788:2723": {
+            "x": 2788,
+            "y": 2723,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2789:2723": {
+            "x": 2789,
+            "y": 2723,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2790:2723": {
+            "x": 2790,
+            "y": 2723,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2791:2723": {
+            "x": 2791,
+            "y": 2723,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2792:2723": {
+            "x": 2792,
+            "y": 2723,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2792:2724": {
+            "x": 2792,
+            "y": 2724,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2793:2724": {
+            "x": 2793,
+            "y": 2724,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2794:2724": {
+            "x": 2794,
+            "y": 2724,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2795:2724": {
+            "x": 2795,
+            "y": 2724,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2796:2723": {
+            "x": 2796,
+            "y": 2723,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2795:2723": {
+            "x": 2795,
+            "y": 2723,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2794:2723": {
+            "x": 2794,
+            "y": 2723,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2793:2723": {
+            "x": 2793,
+            "y": 2723,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2796:2724": {
+            "x": 2796,
+            "y": 2724,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2791:2724": {
+            "x": 2791,
+            "y": 2724,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2790:2724": {
+            "x": 2790,
+            "y": 2724,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2789:2724": {
+            "x": 2789,
+            "y": 2724,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2788:2724": {
+            "x": 2788,
+            "y": 2724,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2787:2724": {
+            "x": 2787,
+            "y": 2724,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2786:2724": {
+            "x": 2786,
+            "y": 2724,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2785:2724": {
+            "x": 2785,
+            "y": 2724,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2784:2724": {
+            "x": 2784,
+            "y": 2724,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2783:2724": {
+            "x": 2783,
+            "y": 2724,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2782:2724": {
+            "x": 2782,
+            "y": 2724,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2780:2723": {
+            "x": 2780,
+            "y": 2723,
+            "object_code": "red_ball",
+            "other_options": {}
+        },
+        "2766:2751": {
+            "x": 2766,
+            "y": 2751,
+            "object_code": "purple_ball",
+            "other_options": {
+                "angle": 0
+            }
+        },
+        "2766:2752": {
+            "x": 2766,
+            "y": 2752,
+            "object_code": "purple_ball",
+            "other_options": {
+                "angle": 0
+            }
+        },
+        "2798:2732": {
+            "x": 2798,
+            "y": 2732,
+            "object_code": "blue_ball",
+            "other_options": {
+                "angle": 180
+            }
+        },
+        "2798:2731": {
+            "x": 2798,
+            "y": 2731,
+            "object_code": "blue_ball",
+            "other_options": {
+                "angle": 180
+            }
+        },
+        "2793:2736": {
+            "x": 2793,
+            "y": 2736,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2792:2737": {
+            "x": 2792,
+            "y": 2737,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2791:2738": {
+            "x": 2791,
+            "y": 2738,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        }
+    },
+    "player_position": {
+        "x": 2777,
+        "y": 2777
+    },
+    "min_score_to_win": 50,
+    "time_limit": 20,
+    "acceleration": 40,
+    "contact_radius_size": 300,
+    "max_speed": 450,
+    "zoom_value": 20,
+    "add_powers": true,
+    "map_edge_type": "deadly",
+    "edge_distance": 100,
+    "next_level": "{{home}}/73.json",
+    "slow_time": "0.5",
+    "slow_time_duration": "1",
+    "size_power": "20",
+    "size_power_duration": "1",
+    "speed_power": "1.3",
+    "speed_power_duration": "1",
+    "tutorial": {},
+    "space_background": {}
+}
