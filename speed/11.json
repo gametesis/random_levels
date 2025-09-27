@@ -342,6 +342,22 @@
                 "angle": -90
             }
         },
+        "2138:2073": {
+            "x": 2138,
+            "y": 2073,
+            "object_code": "cyan_dash",
+            "other_options": {
+                
+            }
+        },
+        "2138:2072": {
+            "x": 2138,
+            "y": 2072,
+            "object_code": "cyan_dash",
+            "other_options": {
+                
+            }
+        },
         "2088:2074": {
             "x": 2088,
             "y": 2074,
