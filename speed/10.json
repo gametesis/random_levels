@@ -1,0 +1,2164 @@
+{
+    "map": {
+        "2080:2074": {
+            "x": 2080,
+            "y": 2074,
+            "object_code": "green_dash",
+            "other_options": {
+                "angle": 180
+            }
+        },
+        "2091:2070": {
+            "x": 2091,
+            "y": 2070,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2069:2061": {
+            "x": 2069,
+            "y": 2061,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2068:2061": {
+            "x": 2068,
+            "y": 2061,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2067:2061": {
+            "x": 2067,
+            "y": 2061,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2066:2061": {
+            "x": 2066,
+            "y": 2061,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2065:2061": {
+            "x": 2065,
+            "y": 2061,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2064:2061": {
+            "x": 2064,
+            "y": 2061,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2063:2061": {
+            "x": 2063,
+            "y": 2061,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2071:2061": {
+            "x": 2071,
+            "y": 2061,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2072:2061": {
+            "x": 2072,
+            "y": 2061,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2073:2061": {
+            "x": 2073,
+            "y": 2061,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2074:2061": {
+            "x": 2074,
+            "y": 2061,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2075:2061": {
+            "x": 2075,
+            "y": 2061,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2076:2061": {
+            "x": 2076,
+            "y": 2061,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2077:2061": {
+            "x": 2077,
+            "y": 2061,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2078:2061": {
+            "x": 2078,
+            "y": 2061,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2079:2061": {
+            "x": 2079,
+            "y": 2061,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2080:2061": {
+            "x": 2080,
+            "y": 2061,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2081:2061": {
+            "x": 2081,
+            "y": 2061,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2082:2061": {
+            "x": 2082,
+            "y": 2061,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2083:2061": {
+            "x": 2083,
+            "y": 2061,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2070:2061": {
+            "x": 2070,
+            "y": 2061,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2067:2070": {
+            "x": 2067,
+            "y": 2070,
+            "object_code": "green_dash",
+            "other_options": {
+                "angle": -90
+            }
+        },
+        "2069:2065": {
+            "x": 2069,
+            "y": 2065,
+            "object_code": "green_dash",
+            "other_options": {
+                "angle": 0,
+                "go_to_position": true
+            }
+        },
+        "2091:2069": {
+            "x": 2091,
+            "y": 2069,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2091:2068": {
+            "x": 2091,
+            "y": 2068,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2091:2067": {
+            "x": 2091,
+            "y": 2067,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2091:2066": {
+            "x": 2091,
+            "y": 2066,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2091:2065": {
+            "x": 2091,
+            "y": 2065,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2091:2064": {
+            "x": 2091,
+            "y": 2064,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2091:2063": {
+            "x": 2091,
+            "y": 2063,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2091:2062": {
+            "x": 2091,
+            "y": 2062,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2091:2061": {
+            "x": 2091,
+            "y": 2061,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2091:2060": {
+            "x": 2091,
+            "y": 2060,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2091:2059": {
+            "x": 2091,
+            "y": 2059,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2091:2058": {
+            "x": 2091,
+            "y": 2058,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2091:2057": {
+            "x": 2091,
+            "y": 2057,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2091:2056": {
+            "x": 2091,
+            "y": 2056,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2091:2055": {
+            "x": 2091,
+            "y": 2055,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2091:2054": {
+            "x": 2091,
+            "y": 2054,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2091:2053": {
+            "x": 2091,
+            "y": 2053,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2091:2071": {
+            "x": 2091,
+            "y": 2071,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2091:2072": {
+            "x": 2091,
+            "y": 2072,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2091:2073": {
+            "x": 2091,
+            "y": 2073,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2091:2074": {
+            "x": 2091,
+            "y": 2074,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2091:2075": {
+            "x": 2091,
+            "y": 2075,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2091:2076": {
+            "x": 2091,
+            "y": 2076,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2091:2077": {
+            "x": 2091,
+            "y": 2077,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2091:2078": {
+            "x": 2091,
+            "y": 2078,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2091:2079": {
+            "x": 2091,
+            "y": 2079,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2091:2080": {
+            "x": 2091,
+            "y": 2080,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2091:2081": {
+            "x": 2091,
+            "y": 2081,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2091:2082": {
+            "x": 2091,
+            "y": 2082,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2091:2083": {
+            "x": 2091,
+            "y": 2083,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2091:2084": {
+            "x": 2091,
+            "y": 2084,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2091:2085": {
+            "x": 2091,
+            "y": 2085,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2091:2086": {
+            "x": 2091,
+            "y": 2086,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2091:2087": {
+            "x": 2091,
+            "y": 2087,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2091:2088": {
+            "x": 2091,
+            "y": 2088,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2090:2088": {
+            "x": 2090,
+            "y": 2088,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2089:2088": {
+            "x": 2089,
+            "y": 2088,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2088:2088": {
+            "x": 2088,
+            "y": 2088,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2087:2088": {
+            "x": 2087,
+            "y": 2088,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2086:2088": {
+            "x": 2086,
+            "y": 2088,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2085:2088": {
+            "x": 2085,
+            "y": 2088,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2084:2088": {
+            "x": 2084,
+            "y": 2088,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2083:2088": {
+            "x": 2083,
+            "y": 2088,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2082:2088": {
+            "x": 2082,
+            "y": 2088,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2081:2088": {
+            "x": 2081,
+            "y": 2088,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2080:2088": {
+            "x": 2080,
+            "y": 2088,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2079:2088": {
+            "x": 2079,
+            "y": 2088,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2078:2088": {
+            "x": 2078,
+            "y": 2088,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2077:2088": {
+            "x": 2077,
+            "y": 2088,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2076:2088": {
+            "x": 2076,
+            "y": 2088,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2075:2088": {
+            "x": 2075,
+            "y": 2088,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2074:2088": {
+            "x": 2074,
+            "y": 2088,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2073:2088": {
+            "x": 2073,
+            "y": 2088,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2072:2088": {
+            "x": 2072,
+            "y": 2088,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2071:2088": {
+            "x": 2071,
+            "y": 2088,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2070:2088": {
+            "x": 2070,
+            "y": 2088,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2069:2088": {
+            "x": 2069,
+            "y": 2088,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2068:2088": {
+            "x": 2068,
+            "y": 2088,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2067:2088": {
+            "x": 2067,
+            "y": 2088,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2066:2088": {
+            "x": 2066,
+            "y": 2088,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2065:2088": {
+            "x": 2065,
+            "y": 2088,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2064:2088": {
+            "x": 2064,
+            "y": 2088,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2063:2088": {
+            "x": 2063,
+            "y": 2088,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2067:2055": {
+            "x": 2067,
+            "y": 2055,
+            "object_code": "green_dash",
+            "other_options": {
+                "angle": -90
+            }
+        },
+        "2090:2053": {
+            "x": 2090,
+            "y": 2053,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2089:2053": {
+            "x": 2089,
+            "y": 2053,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2088:2053": {
+            "x": 2088,
+            "y": 2053,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2087:2053": {
+            "x": 2087,
+            "y": 2053,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2086:2053": {
+            "x": 2086,
+            "y": 2053,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2085:2053": {
+            "x": 2085,
+            "y": 2053,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2084:2053": {
+            "x": 2084,
+            "y": 2053,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2083:2053": {
+            "x": 2083,
+            "y": 2053,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2082:2053": {
+            "x": 2082,
+            "y": 2053,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2081:2053": {
+            "x": 2081,
+            "y": 2053,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2080:2053": {
+            "x": 2080,
+            "y": 2053,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2079:2053": {
+            "x": 2079,
+            "y": 2053,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2078:2053": {
+            "x": 2078,
+            "y": 2053,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2077:2053": {
+            "x": 2077,
+            "y": 2053,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2076:2053": {
+            "x": 2076,
+            "y": 2053,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2075:2053": {
+            "x": 2075,
+            "y": 2053,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2074:2053": {
+            "x": 2074,
+            "y": 2053,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2073:2053": {
+            "x": 2073,
+            "y": 2053,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2072:2053": {
+            "x": 2072,
+            "y": 2053,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2071:2053": {
+            "x": 2071,
+            "y": 2053,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2065:2045": {
+            "x": 2065,
+            "y": 2045,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2066:2045": {
+            "x": 2066,
+            "y": 2045,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2067:2045": {
+            "x": 2067,
+            "y": 2045,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2068:2045": {
+            "x": 2068,
+            "y": 2045,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2069:2045": {
+            "x": 2069,
+            "y": 2045,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2070:2045": {
+            "x": 2070,
+            "y": 2045,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2071:2045": {
+            "x": 2071,
+            "y": 2045,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2072:2045": {
+            "x": 2072,
+            "y": 2045,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2063:2060": {
+            "x": 2063,
+            "y": 2060,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2063:2059": {
+            "x": 2063,
+            "y": 2059,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2063:2058": {
+            "x": 2063,
+            "y": 2058,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2063:2057": {
+            "x": 2063,
+            "y": 2057,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2063:2056": {
+            "x": 2063,
+            "y": 2056,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2063:2055": {
+            "x": 2063,
+            "y": 2055,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2063:2054": {
+            "x": 2063,
+            "y": 2054,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2063:2053": {
+            "x": 2063,
+            "y": 2053,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2063:2052": {
+            "x": 2063,
+            "y": 2052,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2063:2051": {
+            "x": 2063,
+            "y": 2051,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2063:2050": {
+            "x": 2063,
+            "y": 2050,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2063:2049": {
+            "x": 2063,
+            "y": 2049,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2063:2048": {
+            "x": 2063,
+            "y": 2048,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2063:2047": {
+            "x": 2063,
+            "y": 2047,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2063:2046": {
+            "x": 2063,
+            "y": 2046,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2063:2045": {
+            "x": 2063,
+            "y": 2045,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2064:2045": {
+            "x": 2064,
+            "y": 2045,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2080:2052": {
+            "x": 2080,
+            "y": 2052,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2080:2051": {
+            "x": 2080,
+            "y": 2051,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2080:2050": {
+            "x": 2080,
+            "y": 2050,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2080:2049": {
+            "x": 2080,
+            "y": 2049,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2080:2048": {
+            "x": 2080,
+            "y": 2048,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2080:2047": {
+            "x": 2080,
+            "y": 2047,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2080:2046": {
+            "x": 2080,
+            "y": 2046,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2080:2045": {
+            "x": 2080,
+            "y": 2045,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2081:2045": {
+            "x": 2081,
+            "y": 2045,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2082:2045": {
+            "x": 2082,
+            "y": 2045,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2083:2045": {
+            "x": 2083,
+            "y": 2045,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2084:2045": {
+            "x": 2084,
+            "y": 2045,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2085:2045": {
+            "x": 2085,
+            "y": 2045,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2086:2045": {
+            "x": 2086,
+            "y": 2045,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2087:2045": {
+            "x": 2087,
+            "y": 2045,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2088:2045": {
+            "x": 2088,
+            "y": 2045,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2089:2045": {
+            "x": 2089,
+            "y": 2045,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2090:2045": {
+            "x": 2090,
+            "y": 2045,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2091:2045": {
+            "x": 2091,
+            "y": 2045,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2091:2046": {
+            "x": 2091,
+            "y": 2046,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2091:2047": {
+            "x": 2091,
+            "y": 2047,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2091:2048": {
+            "x": 2091,
+            "y": 2048,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2091:2049": {
+            "x": 2091,
+            "y": 2049,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2091:2050": {
+            "x": 2091,
+            "y": 2050,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2091:2051": {
+            "x": 2091,
+            "y": 2051,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2091:2052": {
+            "x": 2091,
+            "y": 2052,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2080:2044": {
+            "x": 2080,
+            "y": 2044,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2080:2043": {
+            "x": 2080,
+            "y": 2043,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2080:2042": {
+            "x": 2080,
+            "y": 2042,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2080:2041": {
+            "x": 2080,
+            "y": 2041,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2080:2040": {
+            "x": 2080,
+            "y": 2040,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2080:2039": {
+            "x": 2080,
+            "y": 2039,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2080:2038": {
+            "x": 2080,
+            "y": 2038,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2080:2037": {
+            "x": 2080,
+            "y": 2037,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2080:2036": {
+            "x": 2080,
+            "y": 2036,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2081:2036": {
+            "x": 2081,
+            "y": 2036,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2082:2036": {
+            "x": 2082,
+            "y": 2036,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2083:2036": {
+            "x": 2083,
+            "y": 2036,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2084:2036": {
+            "x": 2084,
+            "y": 2036,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2085:2036": {
+            "x": 2085,
+            "y": 2036,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2086:2036": {
+            "x": 2086,
+            "y": 2036,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2087:2036": {
+            "x": 2087,
+            "y": 2036,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2088:2036": {
+            "x": 2088,
+            "y": 2036,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2089:2036": {
+            "x": 2089,
+            "y": 2036,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2090:2036": {
+            "x": 2090,
+            "y": 2036,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2091:2037": {
+            "x": 2091,
+            "y": 2037,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2091:2038": {
+            "x": 2091,
+            "y": 2038,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2091:2039": {
+            "x": 2091,
+            "y": 2039,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2091:2040": {
+            "x": 2091,
+            "y": 2040,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2091:2041": {
+            "x": 2091,
+            "y": 2041,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2091:2042": {
+            "x": 2091,
+            "y": 2042,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2091:2043": {
+            "x": 2091,
+            "y": 2043,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2091:2044": {
+            "x": 2091,
+            "y": 2044,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2091:2036": {
+            "x": 2091,
+            "y": 2036,
+            "object_code": "yellow_enemy",
+            "other_options": {}
+        },
+        "2079:2036": {
+            "x": 2079,
+            "y": 2036,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2078:2036": {
+            "x": 2078,
+            "y": 2036,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2077:2036": {
+            "x": 2077,
+            "y": 2036,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2076:2036": {
+            "x": 2076,
+            "y": 2036,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2075:2036": {
+            "x": 2075,
+            "y": 2036,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2074:2036": {
+            "x": 2074,
+            "y": 2036,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2073:2036": {
+            "x": 2073,
+            "y": 2036,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2063:2043": {
+            "x": 2063,
+            "y": 2043,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2063:2044": {
+            "x": 2063,
+            "y": 2044,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2063:2042": {
+            "x": 2063,
+            "y": 2042,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2063:2041": {
+            "x": 2063,
+            "y": 2041,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2063:2040": {
+            "x": 2063,
+            "y": 2040,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2063:2036": {
+            "x": 2063,
+            "y": 2036,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2063:2037": {
+            "x": 2063,
+            "y": 2037,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2063:2038": {
+            "x": 2063,
+            "y": 2038,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2063:2039": {
+            "x": 2063,
+            "y": 2039,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2063:2035": {
+            "x": 2063,
+            "y": 2035,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2063:2034": {
+            "x": 2063,
+            "y": 2034,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2063:2033": {
+            "x": 2063,
+            "y": 2033,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2063:2032": {
+            "x": 2063,
+            "y": 2032,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2063:2031": {
+            "x": 2063,
+            "y": 2031,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2063:2030": {
+            "x": 2063,
+            "y": 2030,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2063:2029": {
+            "x": 2063,
+            "y": 2029,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2063:2028": {
+            "x": 2063,
+            "y": 2028,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2063:2027": {
+            "x": 2063,
+            "y": 2027,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2063:2026": {
+            "x": 2063,
+            "y": 2026,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2073:2035": {
+            "x": 2073,
+            "y": 2035,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2073:2034": {
+            "x": 2073,
+            "y": 2034,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2073:2033": {
+            "x": 2073,
+            "y": 2033,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2073:2032": {
+            "x": 2073,
+            "y": 2032,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2073:2031": {
+            "x": 2073,
+            "y": 2031,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2073:2030": {
+            "x": 2073,
+            "y": 2030,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2073:2029": {
+            "x": 2073,
+            "y": 2029,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2073:2027": {
+            "x": 2073,
+            "y": 2027,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2073:2028": {
+            "x": 2073,
+            "y": 2028,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2073:2026": {
+            "x": 2073,
+            "y": 2026,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2073:2025": {
+            "x": 2073,
+            "y": 2025,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2074:2025": {
+            "x": 2074,
+            "y": 2025,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2075:2025": {
+            "x": 2075,
+            "y": 2025,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2076:2025": {
+            "x": 2076,
+            "y": 2025,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2077:2025": {
+            "x": 2077,
+            "y": 2025,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2078:2025": {
+            "x": 2078,
+            "y": 2025,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2079:2025": {
+            "x": 2079,
+            "y": 2025,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2080:2025": {
+            "x": 2080,
+            "y": 2025,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2081:2025": {
+            "x": 2081,
+            "y": 2025,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2091:2035": {
+            "x": 2091,
+            "y": 2035,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2091:2034": {
+            "x": 2091,
+            "y": 2034,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2091:2033": {
+            "x": 2091,
+            "y": 2033,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2091:2032": {
+            "x": 2091,
+            "y": 2032,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2091:2031": {
+            "x": 2091,
+            "y": 2031,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2091:2030": {
+            "x": 2091,
+            "y": 2030,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2091:2029": {
+            "x": 2091,
+            "y": 2029,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2091:2028": {
+            "x": 2091,
+            "y": 2028,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2091:2027": {
+            "x": 2091,
+            "y": 2027,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2091:2026": {
+            "x": 2091,
+            "y": 2026,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2091:2025": {
+            "x": 2091,
+            "y": 2025,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2091:2024": {
+            "x": 2091,
+            "y": 2024,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2091:2023": {
+            "x": 2091,
+            "y": 2023,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2091:2022": {
+            "x": 2091,
+            "y": 2022,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2091:2021": {
+            "x": 2091,
+            "y": 2021,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2091:2020": {
+            "x": 2091,
+            "y": 2020,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2091:2019": {
+            "x": 2091,
+            "y": 2019,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2063:2025": {
+            "x": 2063,
+            "y": 2025,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2063:2024": {
+            "x": 2063,
+            "y": 2024,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2063:2023": {
+            "x": 2063,
+            "y": 2023,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2063:2022": {
+            "x": 2063,
+            "y": 2022,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2063:2021": {
+            "x": 2063,
+            "y": 2021,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2063:2020": {
+            "x": 2063,
+            "y": 2020,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2063:2019": {
+            "x": 2063,
+            "y": 2019,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2063:2018": {
+            "x": 2063,
+            "y": 2018,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2063:2017": {
+            "x": 2063,
+            "y": 2017,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2063:2016": {
+            "x": 2063,
+            "y": 2016,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2064:2016": {
+            "x": 2064,
+            "y": 2016,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2065:2016": {
+            "x": 2065,
+            "y": 2016,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2066:2016": {
+            "x": 2066,
+            "y": 2016,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2067:2016": {
+            "x": 2067,
+            "y": 2016,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2068:2016": {
+            "x": 2068,
+            "y": 2016,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2069:2016": {
+            "x": 2069,
+            "y": 2016,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2070:2016": {
+            "x": 2070,
+            "y": 2016,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2071:2016": {
+            "x": 2071,
+            "y": 2016,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2072:2016": {
+            "x": 2072,
+            "y": 2016,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2073:2016": {
+            "x": 2073,
+            "y": 2016,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2074:2016": {
+            "x": 2074,
+            "y": 2016,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2075:2016": {
+            "x": 2075,
+            "y": 2016,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2076:2016": {
+            "x": 2076,
+            "y": 2016,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2077:2016": {
+            "x": 2077,
+            "y": 2016,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2078:2016": {
+            "x": 2078,
+            "y": 2016,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2079:2016": {
+            "x": 2079,
+            "y": 2016,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2080:2016": {
+            "x": 2080,
+            "y": 2016,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2081:2016": {
+            "x": 2081,
+            "y": 2016,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2082:2016": {
+            "x": 2082,
+            "y": 2016,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2083:2016": {
+            "x": 2083,
+            "y": 2016,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2084:2016": {
+            "x": 2084,
+            "y": 2016,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2085:2016": {
+            "x": 2085,
+            "y": 2016,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2086:2016": {
+            "x": 2086,
+            "y": 2016,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2087:2016": {
+            "x": 2087,
+            "y": 2016,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2088:2016": {
+            "x": 2088,
+            "y": 2016,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2089:2016": {
+            "x": 2089,
+            "y": 2016,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2090:2016": {
+            "x": 2090,
+            "y": 2016,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2091:2017": {
+            "x": 2091,
+            "y": 2017,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2091:2018": {
+            "x": 2091,
+            "y": 2018,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2091:2016": {
+            "x": 2091,
+            "y": 2016,
+            "object_code": "cyan_enemy",
+            "other_options": {}
+        },
+        "2071:2021": {
+            "x": 2071,
+            "y": 2021,
+            "object_code": "green_dash",
+            "other_options": {
+                "angle": 0
+            }
+        },
+        "2074:2041": {
+            "x": 2074,
+            "y": 2041,
+            "object_code": "green_dash",
+            "other_options": {
+                "angle": 180
+            }
+        },
+        "2070:2049": {
+            "x": 2070,
+            "y": 2049,
+            "object_code": "green_dash",
+            "other_options": {
+                "angle": 0
+            }
+        },
+        "2076:2046": {
+            "x": 2076,
+            "y": 2046,
+            "object_code": "green_dash",
+            "other_options": {
+                "angle": -90
+            }
+        },
+        "2068:2038": {
+            "x": 2068,
+            "y": 2038,
+            "object_code": "green_dash",
+            "other_options": {
+                "angle": -90
+            }
+        },
+        "2062:2088": {
+            "x": 2062,
+            "y": 2088,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2061:2088": {
+            "x": 2061,
+            "y": 2088,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2060:2088": {
+            "x": 2060,
+            "y": 2088,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2060:2087": {
+            "x": 2060,
+            "y": 2087,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2060:2086": {
+            "x": 2060,
+            "y": 2086,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2060:2085": {
+            "x": 2060,
+            "y": 2085,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2060:2084": {
+            "x": 2060,
+            "y": 2084,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2060:2083": {
+            "x": 2060,
+            "y": 2083,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2060:2082": {
+            "x": 2060,
+            "y": 2082,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2060:2081": {
+            "x": 2060,
+            "y": 2081,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2060:2080": {
+            "x": 2060,
+            "y": 2080,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2060:2079": {
+            "x": 2060,
+            "y": 2079,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2060:2078": {
+            "x": 2060,
+            "y": 2078,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2060:2077": {
+            "x": 2060,
+            "y": 2077,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2060:2076": {
+            "x": 2060,
+            "y": 2076,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2060:2075": {
+            "x": 2060,
+            "y": 2075,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2060:2074": {
+            "x": 2060,
+            "y": 2074,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2060:2073": {
+            "x": 2060,
+            "y": 2073,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2060:2072": {
+            "x": 2060,
+            "y": 2072,
+            "object_code": "blue_enemy",
+            "other_options": {}
+        },
+        "2062:2061": {
+            "x": 2062,
+            "y": 2061,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2061:2061": {
+            "x": 2061,
+            "y": 2061,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2060:2061": {
+            "x": 2060,
+            "y": 2061,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2060:2071": {
+            "x": 2060,
+            "y": 2071,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2060:2070": {
+            "x": 2060,
+            "y": 2070,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2060:2069": {
+            "x": 2060,
+            "y": 2069,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2060:2068": {
+            "x": 2060,
+            "y": 2068,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2060:2067": {
+            "x": 2060,
+            "y": 2067,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2060:2066": {
+            "x": 2060,
+            "y": 2066,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2060:2065": {
+            "x": 2060,
+            "y": 2065,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2060:2064": {
+            "x": 2060,
+            "y": 2064,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2060:2063": {
+            "x": 2060,
+            "y": 2063,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2060:2062": {
+            "x": 2060,
+            "y": 2062,
+            "object_code": "red_enemy",
+            "other_options": {}
+        },
+        "2090:2070": {
+            "x": 2090,
+            "y": 2070,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2089:2070": {
+            "x": 2089,
+            "y": 2070,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2088:2070": {
+            "x": 2088,
+            "y": 2070,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2087:2070": {
+            "x": 2087,
+            "y": 2070,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2086:2070": {
+            "x": 2086,
+            "y": 2070,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2085:2070": {
+            "x": 2085,
+            "y": 2070,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2084:2070": {
+            "x": 2084,
+            "y": 2070,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2083:2070": {
+            "x": 2083,
+            "y": 2070,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2082:2070": {
+            "x": 2082,
+            "y": 2070,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2081:2070": {
+            "x": 2081,
+            "y": 2070,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2080:2070": {
+            "x": 2080,
+            "y": 2070,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2079:2070": {
+            "x": 2079,
+            "y": 2070,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2078:2070": {
+            "x": 2078,
+            "y": 2070,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2077:2070": {
+            "x": 2077,
+            "y": 2070,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2076:2070": {
+            "x": 2076,
+            "y": 2070,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2075:2070": {
+            "x": 2075,
+            "y": 2070,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2074:2070": {
+            "x": 2074,
+            "y": 2070,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2073:2070": {
+            "x": 2073,
+            "y": 2070,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2072:2070": {
+            "x": 2072,
+            "y": 2070,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2071:2070": {
+            "x": 2071,
+            "y": 2070,
+            "object_code": "green_enemy",
+            "other_options": {}
+        },
+        "2079:2030": {
+            "x": 2079,
+            "y": 2030,
+            "object_code": "blue_ball",
+            "other_options": {}
+        },
+        "2080:2030": {
+            "x": 2080,
+            "y": 2030,
+            "object_code": "blue_ball",
+            "other_options": {}
+        },
+        "2080:2031": {
+            "x": 2080,
+            "y": 2031,
+            "object_code": "blue_ball",
+            "other_options": {}
+        },
+        "2079:2031": {
+            "x": 2079,
+            "y": 2031,
+            "object_code": "blue_ball",
+            "other_options": {}
+        },
+        "2083:2080": {
+            "x": 2083,
+            "y": 2080,
+            "object_code": "green_dash",
+            "other_options": {}
+        },
+        "2082:2057": {
+            "x": 2082,
+            "y": 2057,
+            "object_code": "red_ball",
+            "other_options": {
+                "angle": 180
+            }
+        }
+    },
+    "player_position": {
+        "x": 2083,
+        "y": 2083
+    },
+    "min_score_to_win": 12,
+    "time_limit": 13,
+    "acceleration": 35,
+    "contact_radius_size": 300,
+    "max_speed": 450,
+    "zoom_value": 24,
+    "add_powers": false,
+    "map_edge_type": "deadly",
+    "edge_distance": 300,
+    "next_level": "",
+    "slow_time": "0.5",
+    "slow_time_duration": "1",
+    "size_power": "20",
+    "size_power_duration": "1",
+    "speed_power": "2",
+    "speed_power_duration": "1",
+    "tutorial": {}
+}
