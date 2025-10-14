@@ -196,8 +196,8 @@
             "other_options": {
                 "portal_id": 2,
                 "portal_entry": true,
-                "distance":100,
-                "strength":10
+                "distance": 100,
+                "strength": 10
             }
         },
         "2329:2242": {
@@ -554,7 +554,7 @@
             "object_code": "red_ball",
             "other_options": {
                 "angle": -170,
-                "go_to_position":true
+                "go_to_position": true
             }
         },
         "2332:2224": {
@@ -878,8 +878,8 @@
             "other_options": {
                 "portal_id": 4,
                 "portal_entry": true,
-                "distance":100,
-                "strength":10
+                "distance": 100,
+                "strength": 10
             }
         },
         "2318:2213": {
@@ -967,8 +967,8 @@
             "other_options": {
                 "portal_id": 6,
                 "portal_entry": true,
-                "distance":100,
-                "strength":10
+                "distance": 100,
+                "strength": 10
             }
         },
         "2275:2212": {
@@ -981,14 +981,13 @@
                 "angle": 60
             }
         },
-       
         "2302:2218": {
             "x": 2302,
             "y": 2218,
             "object_code": "green_ball",
             "other_options": {
-                "angle":130,
-                "go_to_position":true
+                "angle": 130,
+                "go_to_position": true
             }
         },
         "2288:2227": {
@@ -1129,12 +1128,6 @@
             "object_code": "green_enemy",
             "other_options": {}
         },
-        "2286:2255": {
-            "x": 2286,
-            "y": 2255,
-            "object_code": "green_enemy",
-            "other_options": {}
-        },
         "2284:2253": {
             "x": 2284,
             "y": 2253,
@@ -1201,33 +1194,9 @@
             "object_code": "black_ball",
             "other_options": {}
         },
-        "2270:2239": {
-            "x": 2270,
-            "y": 2239,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
-        "2270:2240": {
-            "x": 2270,
-            "y": 2240,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
-        "2270:2241": {
-            "x": 2270,
-            "y": 2241,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
         "2270:2242": {
             "x": 2270,
             "y": 2242,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
-        "2270:2243": {
-            "x": 2270,
-            "y": 2243,
             "object_code": "green_ball",
             "other_options": {}
         },
@@ -1237,20 +1206,8 @@
             "object_code": "green_ball",
             "other_options": {}
         },
-        "2270:2245": {
-            "x": 2270,
-            "y": 2245,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
         "2270:2246": {
             "x": 2270,
-            "y": 2246,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
-        "2283:2246": {
-            "x": 2283,
             "y": 2246,
             "object_code": "green_ball",
             "other_options": {}
@@ -1261,21 +1218,9 @@
             "object_code": "green_ball",
             "other_options": {}
         },
-        "2283:2244": {
-            "x": 2283,
-            "y": 2244,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
         "2283:2243": {
             "x": 2283,
             "y": 2243,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
-        "2283:2242": {
-            "x": 2283,
-            "y": 2242,
             "object_code": "green_ball",
             "other_options": {}
         },
@@ -1285,21 +1230,9 @@
             "object_code": "green_ball",
             "other_options": {}
         },
-        "2283:2240": {
-            "x": 2283,
-            "y": 2240,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
         "2282:2240": {
             "x": 2282,
             "y": 2240,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
-        "2282:2239": {
-            "x": 2282,
-            "y": 2239,
             "object_code": "green_ball",
             "other_options": {}
         },
@@ -1315,20 +1248,8 @@
             "object_code": "green_ball",
             "other_options": {}
         },
-        "2280:2239": {
-            "x": 2280,
-            "y": 2239,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
         "2279:2239": {
             "x": 2279,
-            "y": 2239,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
-        "2278:2239": {
-            "x": 2278,
             "y": 2239,
             "object_code": "green_ball",
             "other_options": {}
@@ -1339,45 +1260,9 @@
             "object_code": "green_ball",
             "other_options": {}
         },
-        "2276:2239": {
-            "x": 2276,
-            "y": 2239,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
         "2275:2239": {
             "x": 2275,
             "y": 2239,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
-        "2274:2239": {
-            "x": 2274,
-            "y": 2239,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
-        "2273:2239": {
-            "x": 2273,
-            "y": 2239,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
-        "2272:2239": {
-            "x": 2272,
-            "y": 2239,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
-        "2271:2239": {
-            "x": 2271,
-            "y": 2239,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
-        "2271:2240": {
-            "x": 2271,
-            "y": 2240,
             "object_code": "green_ball",
             "other_options": {}
         },
@@ -1387,21 +1272,9 @@
             "object_code": "green_ball",
             "other_options": {}
         },
-        "2271:2242": {
-            "x": 2271,
-            "y": 2242,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
         "2271:2243": {
             "x": 2271,
             "y": 2243,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
-        "2271:2244": {
-            "x": 2271,
-            "y": 2244,
             "object_code": "green_ball",
             "other_options": {}
         },
@@ -1411,33 +1284,9 @@
             "object_code": "green_ball",
             "other_options": {}
         },
-        "2271:2246": {
-            "x": 2271,
-            "y": 2246,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
         "2282:2246": {
             "x": 2282,
             "y": 2246,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
-        "2282:2245": {
-            "x": 2282,
-            "y": 2245,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
-        "2282:2244": {
-            "x": 2282,
-            "y": 2244,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
-        "2282:2243": {
-            "x": 2282,
-            "y": 2243,
             "object_code": "green_ball",
             "other_options": {}
         },
@@ -1447,32 +1296,14 @@
             "object_code": "green_ball",
             "other_options": {}
         },
-        "2282:2241": {
-            "x": 2282,
-            "y": 2241,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
         "2281:2241": {
             "x": 2281,
             "y": 2241,
             "object_code": "green_ball",
             "other_options": {}
         },
-        "2281:2240": {
-            "x": 2281,
-            "y": 2240,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
         "2280:2240": {
             "x": 2280,
-            "y": 2240,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
-        "2279:2240": {
-            "x": 2279,
             "y": 2240,
             "object_code": "green_ball",
             "other_options": {}
@@ -1483,20 +1314,8 @@
             "object_code": "green_ball",
             "other_options": {}
         },
-        "2277:2240": {
-            "x": 2277,
-            "y": 2240,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
         "2276:2240": {
             "x": 2276,
-            "y": 2240,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
-        "2275:2240": {
-            "x": 2275,
             "y": 2240,
             "object_code": "green_ball",
             "other_options": {}
@@ -1507,20 +1326,8 @@
             "object_code": "green_ball",
             "other_options": {}
         },
-        "2273:2240": {
-            "x": 2273,
-            "y": 2240,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
         "2273:2241": {
             "x": 2273,
-            "y": 2241,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
-        "2272:2241": {
-            "x": 2272,
             "y": 2241,
             "object_code": "green_ball",
             "other_options": {}
@@ -1537,32 +1344,14 @@
             "object_code": "green_ball",
             "other_options": {}
         },
-        "2272:2243": {
-            "x": 2272,
-            "y": 2243,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
         "2272:2244": {
             "x": 2272,
             "y": 2244,
             "object_code": "green_ball",
             "other_options": {}
         },
-        "2272:2245": {
-            "x": 2272,
-            "y": 2245,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
         "2272:2246": {
             "x": 2272,
-            "y": 2246,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
-        "2281:2246": {
-            "x": 2281,
             "y": 2246,
             "object_code": "green_ball",
             "other_options": {}
@@ -1573,38 +1362,14 @@
             "object_code": "green_ball",
             "other_options": {}
         },
-        "2281:2244": {
-            "x": 2281,
-            "y": 2244,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
         "2281:2243": {
             "x": 2281,
             "y": 2243,
             "object_code": "green_ball",
             "other_options": {}
         },
-        "2281:2242": {
-            "x": 2281,
-            "y": 2242,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
-        "2280:2241": {
-            "x": 2280,
-            "y": 2241,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
         "2279:2241": {
             "x": 2279,
-            "y": 2241,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
-        "2278:2241": {
-            "x": 2278,
             "y": 2241,
             "object_code": "green_ball",
             "other_options": {}
@@ -1615,20 +1380,8 @@
             "object_code": "green_ball",
             "other_options": {}
         },
-        "2276:2241": {
-            "x": 2276,
-            "y": 2241,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
         "2275:2241": {
             "x": 2275,
-            "y": 2241,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
-        "2274:2241": {
-            "x": 2274,
             "y": 2241,
             "object_code": "green_ball",
             "other_options": {}
@@ -1639,21 +1392,9 @@
             "object_code": "green_ball",
             "other_options": {}
         },
-        "2273:2242": {
-            "x": 2273,
-            "y": 2242,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
         "2273:2243": {
             "x": 2273,
             "y": 2243,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
-        "2273:2244": {
-            "x": 2273,
-            "y": 2244,
             "object_code": "green_ball",
             "other_options": {}
         },
@@ -1663,20 +1404,8 @@
             "object_code": "green_ball",
             "other_options": {}
         },
-        "2273:2246": {
-            "x": 2273,
-            "y": 2246,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
         "2274:2246": {
             "x": 2274,
-            "y": 2246,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
-        "2275:2246": {
-            "x": 2275,
             "y": 2246,
             "object_code": "green_ball",
             "other_options": {}
@@ -1687,20 +1416,8 @@
             "object_code": "green_ball",
             "other_options": {}
         },
-        "2277:2246": {
-            "x": 2277,
-            "y": 2246,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
         "2278:2246": {
             "x": 2278,
-            "y": 2246,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
-        "2279:2246": {
-            "x": 2279,
             "y": 2246,
             "object_code": "green_ball",
             "other_options": {}
@@ -1711,32 +1428,14 @@
             "object_code": "green_ball",
             "other_options": {}
         },
-        "2280:2245": {
-            "x": 2280,
-            "y": 2245,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
         "2280:2244": {
             "x": 2280,
             "y": 2244,
             "object_code": "green_ball",
             "other_options": {}
         },
-        "2280:2243": {
-            "x": 2280,
-            "y": 2243,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
         "2280:2242": {
             "x": 2280,
-            "y": 2242,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
-        "2279:2242": {
-            "x": 2279,
             "y": 2242,
             "object_code": "green_ball",
             "other_options": {}
@@ -1747,27 +1446,9 @@
             "object_code": "green_ball",
             "other_options": {}
         },
-        "2277:2242": {
-            "x": 2277,
-            "y": 2242,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
         "2276:2242": {
             "x": 2276,
             "y": 2242,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
-        "2275:2242": {
-            "x": 2275,
-            "y": 2242,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
-        "2274:2243": {
-            "x": 2274,
-            "y": 2243,
             "object_code": "green_ball",
             "other_options": {}
         },
@@ -1777,20 +1458,8 @@
             "object_code": "green_ball",
             "other_options": {}
         },
-        "2274:2245": {
-            "x": 2274,
-            "y": 2245,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
         "2275:2245": {
             "x": 2275,
-            "y": 2245,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
-        "2276:2245": {
-            "x": 2276,
             "y": 2245,
             "object_code": "green_ball",
             "other_options": {}
@@ -1801,32 +1470,14 @@
             "object_code": "green_ball",
             "other_options": {}
         },
-        "2278:2245": {
-            "x": 2278,
-            "y": 2245,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
         "2279:2245": {
             "x": 2279,
             "y": 2245,
             "object_code": "green_ball",
             "other_options": {}
         },
-        "2279:2244": {
-            "x": 2279,
-            "y": 2244,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
         "2279:2243": {
             "x": 2279,
-            "y": 2243,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
-        "2276:2243": {
-            "x": 2276,
             "y": 2243,
             "object_code": "green_ball",
             "other_options": {}
@@ -1837,20 +1488,8 @@
             "object_code": "green_ball",
             "other_options": {}
         },
-        "2275:2244": {
-            "x": 2275,
-            "y": 2244,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
         "2276:2244": {
             "x": 2276,
-            "y": 2244,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
-        "2277:2244": {
-            "x": 2277,
             "y": 2244,
             "object_code": "green_ball",
             "other_options": {}
@@ -1858,12 +1497,6 @@
         "2278:2244": {
             "x": 2278,
             "y": 2244,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
-        "2278:2243": {
-            "x": 2278,
-            "y": 2243,
             "object_code": "green_ball",
             "other_options": {}
         },
@@ -1907,20 +1540,8 @@
             "object_code": "green_ball",
             "other_options": {}
         },
-        "2270:2237": {
-            "x": 2270,
-            "y": 2237,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
         "2270:2236": {
             "x": 2270,
-            "y": 2236,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
-        "2271:2236": {
-            "x": 2271,
             "y": 2236,
             "object_code": "green_ball",
             "other_options": {}
@@ -1931,20 +1552,8 @@
             "object_code": "green_ball",
             "other_options": {}
         },
-        "2273:2236": {
-            "x": 2273,
-            "y": 2236,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
         "2274:2236": {
             "x": 2274,
-            "y": 2236,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
-        "2275:2236": {
-            "x": 2275,
             "y": 2236,
             "object_code": "green_ball",
             "other_options": {}
@@ -1955,20 +1564,8 @@
             "object_code": "green_ball",
             "other_options": {}
         },
-        "2277:2236": {
-            "x": 2277,
-            "y": 2236,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
         "2278:2236": {
             "x": 2278,
-            "y": 2236,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
-        "2279:2236": {
-            "x": 2279,
             "y": 2236,
             "object_code": "green_ball",
             "other_options": {}
@@ -1979,20 +1576,8 @@
             "object_code": "green_ball",
             "other_options": {}
         },
-        "2281:2236": {
-            "x": 2281,
-            "y": 2236,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
         "2282:2236": {
             "x": 2282,
-            "y": 2236,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
-        "2283:2236": {
-            "x": 2283,
             "y": 2236,
             "object_code": "green_ball",
             "other_options": {}
@@ -2003,20 +1588,8 @@
             "object_code": "green_ball",
             "other_options": {}
         },
-        "2283:2238": {
-            "x": 2283,
-            "y": 2238,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
         "2282:2238": {
             "x": 2282,
-            "y": 2238,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
-        "2273:2238": {
-            "x": 2273,
             "y": 2238,
             "object_code": "green_ball",
             "other_options": {}
@@ -2027,26 +1600,8 @@
             "object_code": "green_ball",
             "other_options": {}
         },
-        "2271:2238": {
-            "x": 2271,
-            "y": 2238,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
-        "2272:2237": {
-            "x": 2272,
-            "y": 2237,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
         "2273:2237": {
             "x": 2273,
-            "y": 2237,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
-        "2274:2237": {
-            "x": 2274,
             "y": 2237,
             "object_code": "green_ball",
             "other_options": {}
@@ -2057,20 +1612,8 @@
             "object_code": "green_ball",
             "other_options": {}
         },
-        "2276:2237": {
-            "x": 2276,
-            "y": 2237,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
         "2277:2237": {
             "x": 2277,
-            "y": 2237,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
-        "2278:2237": {
-            "x": 2278,
             "y": 2237,
             "object_code": "green_ball",
             "other_options": {}
@@ -2081,38 +1624,14 @@
             "object_code": "green_ball",
             "other_options": {}
         },
-        "2280:2237": {
-            "x": 2280,
-            "y": 2237,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
         "2281:2237": {
             "x": 2281,
             "y": 2237,
             "object_code": "green_ball",
             "other_options": {}
         },
-        "2281:2238": {
-            "x": 2281,
-            "y": 2238,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
         "2280:2238": {
             "x": 2280,
-            "y": 2238,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
-        "2282:2237": {
-            "x": 2282,
-            "y": 2237,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
-        "2279:2238": {
-            "x": 2279,
             "y": 2238,
             "object_code": "green_ball",
             "other_options": {}
@@ -2123,20 +1642,8 @@
             "object_code": "green_ball",
             "other_options": {}
         },
-        "2277:2238": {
-            "x": 2277,
-            "y": 2238,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
         "2276:2238": {
             "x": 2276,
-            "y": 2238,
-            "object_code": "green_ball",
-            "other_options": {}
-        },
-        "2275:2238": {
-            "x": 2275,
             "y": 2238,
             "object_code": "green_ball",
             "other_options": {}
@@ -2150,6 +1657,30 @@
         "2271:2237": {
             "x": 2271,
             "y": 2237,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2271:2239": {
+            "x": 2271,
+            "y": 2239,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2273:2239": {
+            "x": 2273,
+            "y": 2239,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2270:2240": {
+            "x": 2270,
+            "y": 2240,
+            "object_code": "green_ball",
+            "other_options": {}
+        },
+        "2282:2244": {
+            "x": 2282,
+            "y": 2244,
             "object_code": "green_ball",
             "other_options": {}
         }
