@@ -901,7 +901,7 @@
     "add_powers": false,
     "map_edge_type": "deadly",
     "edge_distance": 50,
-    "next_level": "",
+    "next_level": "{{home}}/73.json",
     "slow_time": "0.5",
     "slow_time_duration": "1",
     "size_power": "20",
