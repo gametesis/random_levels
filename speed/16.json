@@ -2107,7 +2107,7 @@
     "add_powers": true,
     "map_edge_type": "deadly",
     "edge_distance": 100,
-    "next_level": "{{home}}/73.json",
+    "next_level": "https://raw.githubusercontent.com/gametesis/random_levels/refs/heads/main/speed/17.json",
     "slow_time": "0.5",
     "slow_time_duration": "1",
     "size_power": "20",
