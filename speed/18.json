@@ -1678,7 +1678,7 @@
         "y": 2380
     },
     "min_score_to_win": 100,
-    "time_limit": 15,
+    "time_limit": 10,
     "acceleration": 43,
     "contact_radius_size": 300,
     "max_speed": 550,
